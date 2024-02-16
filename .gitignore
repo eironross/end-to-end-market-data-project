@@ -1,0 +1,6 @@
+.venv
+test.py
+iemop_paths.py
+logs
+__pycache__
+.env
