@@ -7,9 +7,8 @@ file pattern = L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZ
 
 """
 # Import the paths from different files
-from iemop_paths import MR_PATHS, ONE_DATA_PATHS, RTD_PATHS, OTHER_PATHS, URI, default_path
-from move_files import move_files
-from logger import log_iemop
+from market_functions.iemop_paths import MR_PATHS, ONE_DATA_PATHS, RTD_PATHS, OTHER_PATHS, URI, default_path
+from market_functions import logger, move_files
 
 # Libraries
 import requests
@@ -23,25 +22,31 @@ from zipfile import ZipFile
 
 class GetMarketData():
     
-    def __init__(self):
-        self.date = date.today()
-        self.url = ""
-        self.local_paths = {}
-        self.default_path = default_path
-        self.log = log_iemop()
+    log = logger.log_iemop()
+    date = date.today()
     
-    def _isformat(self, file_name: str, format: str) -> bool:
+    def __init__(self, url:str = None, default_path: str = None):
+        
+        self.local_paths = {}
+        
+        if url is None or default_path is None:
+            raise "URL or Default was None please provide url and default path"
+        
+        self.default_path = default_path
+        self.url = url
+        
+    def __repr__(self):
+        return "GetMarketData(url='{}',default_path='{}')".format(self.url,self.default_path)
+    
+    @staticmethod
+    def _isformat(file_name: str, format: str) -> bool:
         """
             _isformat checks the formatting of the file
         Args:
             file_name (str): file_name from the scraped data from IEMOP
-            format (str): zip, csv, xlsx
-
-        Returns:
-            bool: True or False
         """
         return True if file_name.endswith(format) else False
-        
+     
     def _create_dictionary(self, *args: list) -> dict:
         
         """
@@ -68,7 +73,7 @@ class GetMarketData():
         market_data = {}
         
         if not args:
-            return []
+            return {}
         
         for index, market_item in enumerate(args):
                 
@@ -83,7 +88,7 @@ class GetMarketData():
         return market_data
     
 
-    def _create_files(self, data: dict, direc: str):
+    def _create_files(self, data: dict, direc: str) -> None:
         
         """__create_files: receives data as dictionary, direc (directory or path)
         
@@ -109,12 +114,8 @@ class GetMarketData():
                 
                 os.remove(file_loc)
                     
-    def _create_folders(self, key):
-        """Creates folders relative to the default path plus the folder name. 
-
-            Function will check if folders exist if not will generate a folder based on the key received
-            
-            Then returns the dir_name
+    def _create_folders(self, key: str) -> str:
+        """Creates folders relative to the default path then the folder name. 
 
         Args:
             key string: key (name of data) from the dictionary
@@ -170,12 +171,12 @@ class GetMarketData():
             for key, value in self.local_paths.items(): 
                 with Chrome(options=chrome_options) as driver:
                     
-                    self.url = URI+value
-                    self.log.info(self.url)
+                    self.uri = self.url+value
+                    self.log.info(self.uri)
                     
                     # TODO: Try using playwright
                     driver.set_page_load_timeout(20)
-                    driver.get(self.url) # Note that the IEMOP pages may be slow at times. Retry the driver if ganon yung case
+                    driver.get(self.uri) # Note that the IEMOP pages may be slow at times. Retry the driver if ganon yung case
                     html = driver.page_source # fully rendered page.
                     
                     if not html:
@@ -185,10 +186,11 @@ class GetMarketData():
                     self.log.info("{} -> Path: {} Error: {} Status: {}".format(key, value, None, None))
                     
                     market_items = BeautifulSoup(html, "html.parser").find_all('div', class_= "market-reports-item")
-                    
-                    if market_items == []:
+                    print(market_items)
+                    if market_items is []:
                         self.log.warning("No data received Exiting.. ")
-                        continue
+                        # Get the current index then use it to slice the dictionary then retry downloading from there
+                        #return self.download_data(**MR_PATHS[:])
 
                     # date = market_items[0].find('div', class_= "market-reports-title").text.strip().split()[0]
                     # check_date = self.date - timedelta(days=1) # D-1
@@ -206,4 +208,7 @@ class GetMarketData():
         except TimeoutException:
             self.log.exception("Exception has been thrown. ")
             
-            
+
+if __name__ == "__main__":
+    get = GetMarketData(url=URI, default_path=default_path)
+    get.download_data(**MR_PATHS)

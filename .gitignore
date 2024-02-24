@@ -1,6 +1,5 @@
 .venv
 test.py
-iemop_paths.py
-logs
 __pycache__
 .env
+market_functions/iemop_paths.py
