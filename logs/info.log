@@ -1,0 +1,1409 @@
+2024-05-10 19:19:14,577: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-21 23:12:13,324: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-21 23:12:20,988: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-21 23:13:42,810: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-21 23:13:58,387: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-21 23:15:43,374: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-21 23:15:58,704: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-21 23:18:03,282: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-21 23:18:22,310: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-21 23:18:31,538: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-21 23:18:44,349: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-21 23:18:56,743: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-21 23:18:56,776: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Market Data\Lwap Final 
+2024-05-21 23:18:57,308: INFO - Date: 25 April 2024 00:00 File: final_lwap_20240425.csv Status: 200
+2024-05-21 23:18:57,642: INFO - Date: 24 April 2024 00:00 File: final_lwap_20240424.csv Status: 200
+2024-05-21 23:18:58,038: INFO - Date: 23 April 2024 00:00 File: final_lwap_20240423.csv Status: 200
+2024-05-21 23:18:58,410: INFO - Date: 22 April 2024 00:00 File: final_lwap_20240422.csv Status: 200
+2024-05-21 23:18:58,843: INFO - Date: 21 April 2024 00:00 File: final_lwap_20240421.csv Status: 200
+2024-05-21 23:18:59,370: INFO - Date: 20 April 2024 00:00 File: final_lwap_20240420.csv Status: 200
+2024-05-21 23:18:59,924: INFO - Date: 19 April 2024 00:00 File: final_lwap_20240419.csv Status: 200
+2024-05-21 23:19:00,290: INFO - Date: 18 April 2024 00:00 File: final_lwap_20240418.csv Status: 200
+2024-05-21 23:19:00,648: INFO - Date: 17 April 2024 00:00 File: final_lwap_20240417.csv Status: 200
+2024-05-21 23:19:01,047: INFO - Date: 16 April 2024 00:00 File: final_lwap_20240416.csv Status: 200
+2024-05-21 23:19:01,489: INFO - Date: 15 April 2024 00:00 File: final_lwap_20240415.csv Status: 200
+2024-05-21 23:19:02,014: INFO - Date: 14 April 2024 00:00 File: final_lwap_20240414.csv Status: 200
+2024-05-21 23:19:02,354: INFO - Date: 13 April 2024 00:00 File: final_lwap_20240413.csv Status: 200
+2024-05-21 23:19:02,689: INFO - Date: 12 April 2024 00:00 File: final_lwap_20240412.csv Status: 200
+2024-05-21 23:19:03,132: INFO - Date: 11 April 2024 00:00 File: final_lwap_20240411.csv Status: 200
+2024-05-21 23:19:03,502: INFO - Date: 10 April 2024 00:00 File: final_lwap_20240410.csv Status: 200
+2024-05-21 23:19:03,982: INFO - Date: 09 April 2024 00:00 File: final_lwap_20240409.csv Status: 200
+2024-05-21 23:19:04,504: INFO - Date: 08 April 2024 00:00 File: final_lwap_20240408.csv Status: 200
+2024-05-21 23:19:04,943: INFO - Date: 07 April 2024 00:00 File: final_lwap_20240407.csv Status: 200
+2024-05-21 23:19:05,312: INFO - Date: 06 April 2024 00:00 File: final_lwap_20240406.csv Status: 200
+2024-05-21 23:19:05,784: INFO - Date: 05 April 2024 00:00 File: final_lwap_20240405.csv Status: 200
+2024-05-21 23:19:06,285: INFO - Date: 04 April 2024 00:00 File: final_lwap_20240404.csv Status: 200
+2024-05-21 23:19:06,783: INFO - Date: 03 April 2024 00:00 File: final_lwap_20240403.csv Status: 200
+2024-05-21 23:19:07,254: INFO - Date: 02 April 2024 00:00 File: final_lwap_20240402.csv Status: 200
+2024-05-21 23:19:07,256: INFO - Downloading completed for lwap_final .. Exiting...
+2024-05-21 23:19:14,605: INFO - https://www.iemop.ph/market-data/generator-weighted-average-price-final
+2024-05-21 23:19:20,033: INFO - gwap_final -> Path: /generator-weighted-average-price-final 
+2024-05-21 23:19:20,071: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Market Data\Gwap Final 
+2024-05-21 23:19:20,432: INFO - Date: 25 April 2024 00:00 File: final_gwap_20240425.csv Status: 200
+2024-05-21 23:19:21,023: INFO - Date: 24 April 2024 00:00 File: final_gwap_20240424.csv Status: 200
+2024-05-21 23:19:21,373: INFO - Date: 23 April 2024 00:00 File: final_gwap_20240423.csv Status: 200
+2024-05-21 23:19:21,773: INFO - Date: 22 April 2024 00:00 File: final_gwap_20240422.csv Status: 200
+2024-05-21 23:19:22,266: INFO - Date: 21 April 2024 00:00 File: final_gwap_20240421.csv Status: 200
+2024-05-21 23:19:22,744: INFO - Date: 20 April 2024 00:00 File: final_gwap_20240420.csv Status: 200
+2024-05-21 23:19:23,143: INFO - Date: 19 April 2024 00:00 File: final_gwap_20240419.csv Status: 200
+2024-05-21 23:19:23,664: INFO - Date: 18 April 2024 00:00 File: final_gwap_20240418.csv Status: 200
+2024-05-21 23:19:24,224: INFO - Date: 17 April 2024 00:00 File: final_gwap_20240417.csv Status: 200
+2024-05-21 23:19:24,672: INFO - Date: 16 April 2024 00:00 File: final_gwap_20240416.csv Status: 200
+2024-05-21 23:19:25,023: INFO - Date: 15 April 2024 00:00 File: final_gwap_20240415.csv Status: 200
+2024-05-21 23:19:25,402: INFO - Date: 14 April 2024 00:00 File: final_gwap_20240414.csv Status: 200
+2024-05-21 23:19:25,901: INFO - Date: 13 April 2024 00:00 File: final_gwap_20240413.csv Status: 200
+2024-05-21 23:19:26,272: INFO - Date: 12 April 2024 00:00 File: final_gwap_20240412.csv Status: 200
+2024-05-21 23:19:26,722: INFO - Date: 11 April 2024 00:00 File: final_gwap_20240411.csv Status: 200
+2024-05-21 23:19:27,202: INFO - Date: 10 April 2024 00:00 File: final_gwap_20240410.csv Status: 200
+2024-05-21 23:19:27,573: INFO - Date: 09 April 2024 00:00 File: final_gwap_20240409.csv Status: 200
+2024-05-21 23:19:27,922: INFO - Date: 08 April 2024 00:00 File: final_gwap_20240408.csv Status: 200
+2024-05-21 23:19:28,374: INFO - Date: 07 April 2024 00:00 File: final_gwap_20240407.csv Status: 200
+2024-05-21 23:19:28,932: INFO - Date: 06 April 2024 00:00 File: final_gwap_20240406.csv Status: 200
+2024-05-21 23:19:29,512: INFO - Date: 05 April 2024 00:00 File: final_gwap_20240405.csv Status: 200
+2024-05-21 23:19:30,064: INFO - Date: 04 April 2024 00:00 File: final_gwap_20240404.csv Status: 200
+2024-05-21 23:19:30,712: INFO - Date: 03 April 2024 00:00 File: final_gwap_20240403.csv Status: 200
+2024-05-21 23:19:31,309: INFO - Date: 02 April 2024 00:00 File: final_gwap_20240402.csv Status: 200
+2024-05-21 23:19:31,312: INFO - Downloading completed for gwap_final .. Exiting...
+2024-05-21 23:19:38,669: INFO - https://www.iemop.ph/market-data/dipc-energy-results-final
+2024-05-21 23:20:00,735: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 113, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 10.210
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F9EA1522+60802]
+	(No symbol) [0x00007FF6F9E1AC22]
+	(No symbol) [0x00007FF6F9CD7CE4]
+	(No symbol) [0x00007FF6F9CC0FE1]
+	(No symbol) [0x00007FF6F9CC0D42]
+	(No symbol) [0x00007FF6F9CBEBE4]
+	(No symbol) [0x00007FF6F9CBF3FF]
+	(No symbol) [0x00007FF6F9CCE0F8]
+	(No symbol) [0x00007FF6F9CE57CF]
+	(No symbol) [0x00007FF6F9CEB38A]
+	(No symbol) [0x00007FF6F9CBFB85]
+	(No symbol) [0x00007FF6F9CE550E]
+	(No symbol) [0x00007FF6F9D6A582]
+	(No symbol) [0x00007FF6F9D4A923]
+	(No symbol) [0x00007FF6F9D18FEC]
+	(No symbol) [0x00007FF6F9D19C21]
+	GetHandleVerifier [0x00007FF6FA1A41BD+3217949]
+	GetHandleVerifier [0x00007FF6FA1E6157+3488183]
+	GetHandleVerifier [0x00007FF6FA1DF0DF+3459391]
+	GetHandleVerifier [0x00007FF6F9F5B8E6+823622]
+	(No symbol) [0x00007FF6F9E25FBF]
+	(No symbol) [0x00007FF6F9E20EE4]
+	(No symbol) [0x00007FF6F9E21072]
+	(No symbol) [0x00007FF6F9E118C4]
+	BaseThreadInitThunk [0x00007FFBF791257D+29]
+	RtlUserThreadStart [0x00007FFBF8C2AA48+40]
+
+2024-05-22 22:25:09,712: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:25:31,794: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 16.835
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:26:03,423: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:26:25,486: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 16.866
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:27:23,444: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:27:45,506: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 19.537
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:27:45,507: ERROR - Retrying.... 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 19.537
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:28:11,984: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:28:34,073: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 19.259
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:28:34,077: ERROR - Retrying.... 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 19.259
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:32:24,875: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:32:46,999: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 18.618
+  (Session info: chrome=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:32:47,003: ERROR - Retrying.... 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 116, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 18.618
+  (Session info: chrome=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:34:14,676: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:34:20,223: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-22 22:36:30,600: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:36:52,688: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 117, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 2.242
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:36:52,692: ERROR - Retrying.... 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 117, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 2.242
+  (Session info: chrome-headless-shell=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:38:27,891: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:38:50,019: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 117, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 18.561
+  (Session info: chrome=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:38:50,023: ERROR - Retrying.... 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 117, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 18.561
+  (Session info: chrome=124.0.6367.208)
+Stacktrace:
+	GetHandleVerifier [0x00007FF670CD1522+60802]
+	(No symbol) [0x00007FF670C4AC22]
+	(No symbol) [0x00007FF670B07CE4]
+	(No symbol) [0x00007FF670AF0FE1]
+	(No symbol) [0x00007FF670AF0D42]
+	(No symbol) [0x00007FF670AEEBE4]
+	(No symbol) [0x00007FF670AEF3FF]
+	(No symbol) [0x00007FF670AFE0F8]
+	(No symbol) [0x00007FF670B157CF]
+	(No symbol) [0x00007FF670B1B38A]
+	(No symbol) [0x00007FF670AEFB85]
+	(No symbol) [0x00007FF670B1550E]
+	(No symbol) [0x00007FF670B9A582]
+	(No symbol) [0x00007FF670B7A923]
+	(No symbol) [0x00007FF670B48FEC]
+	(No symbol) [0x00007FF670B49C21]
+	GetHandleVerifier [0x00007FF670FD41BD+3217949]
+	GetHandleVerifier [0x00007FF671016157+3488183]
+	GetHandleVerifier [0x00007FF67100F0DF+3459391]
+	GetHandleVerifier [0x00007FF670D8B8E6+823622]
+	(No symbol) [0x00007FF670C55FBF]
+	(No symbol) [0x00007FF670C50EE4]
+	(No symbol) [0x00007FF670C51072]
+	(No symbol) [0x00007FF670C418C4]
+	BaseThreadInitThunk [0x00007FFB9A93257D+29]
+	RtlUserThreadStart [0x00007FFB9B7EAA48+40]
+
+2024-05-22 22:39:13,110: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:39:20,536: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-22 22:43:32,383: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:44:00,473: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-22 22:45:00,094: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:45:59,684: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-22 22:50:57,846: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:52:29,826: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-22 22:54:31,654: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-22 22:55:00,002: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-23 09:38:15,450: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-23 09:38:23,099: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-23 09:42:42,903: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-23 09:43:01,551: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-23 09:45:43,245: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-23 09:45:53,328: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-23 09:45:53,363: INFO - Created folder for: C:\bucketLwap Final 
+2024-05-23 09:45:53,958: INFO - Date: 25 April 2024 00:00 File: final_lwap_20240425.csv Status: 200
+2024-05-23 09:45:54,336: INFO - Date: 24 April 2024 00:00 File: final_lwap_20240424.csv Status: 200
+2024-05-23 09:45:54,757: INFO - Date: 23 April 2024 00:00 File: final_lwap_20240423.csv Status: 200
+2024-05-23 09:46:05,905: INFO - Date: 22 April 2024 00:00 File: final_lwap_20240422.csv Status: 200
+2024-05-23 09:46:06,593: INFO - Date: 21 April 2024 00:00 File: final_lwap_20240421.csv Status: 200
+2024-05-23 09:46:07,801: INFO - Date: 20 April 2024 00:00 File: final_lwap_20240420.csv Status: 200
+2024-05-23 09:46:08,506: INFO - Date: 19 April 2024 00:00 File: final_lwap_20240419.csv Status: 200
+2024-05-23 09:46:10,373: INFO - Date: 18 April 2024 00:00 File: final_lwap_20240418.csv Status: 200
+2024-05-23 09:46:10,839: INFO - Date: 17 April 2024 00:00 File: final_lwap_20240417.csv Status: 200
+2024-05-23 09:46:11,940: INFO - Date: 16 April 2024 00:00 File: final_lwap_20240416.csv Status: 200
+2024-05-23 09:46:27,328: INFO - Date: 15 April 2024 00:00 File: final_lwap_20240415.csv Status: 200
+2024-05-23 09:46:27,739: INFO - Date: 14 April 2024 00:00 File: final_lwap_20240414.csv Status: 200
+2024-05-23 09:46:28,126: INFO - Date: 13 April 2024 00:00 File: final_lwap_20240413.csv Status: 200
+2024-05-23 09:46:28,508: INFO - Date: 12 April 2024 00:00 File: final_lwap_20240412.csv Status: 200
+2024-05-23 09:46:28,939: INFO - Date: 11 April 2024 00:00 File: final_lwap_20240411.csv Status: 200
+2024-05-23 09:46:38,692: INFO - Date: 10 April 2024 00:00 File: final_lwap_20240410.csv Status: 200
+2024-05-23 09:46:46,009: INFO - Date: 09 April 2024 00:00 File: final_lwap_20240409.csv Status: 200
+2024-05-23 09:46:49,072: INFO - Date: 08 April 2024 00:00 File: final_lwap_20240408.csv Status: 200
+2024-05-23 09:46:50,225: INFO - Date: 07 April 2024 00:00 File: final_lwap_20240407.csv Status: 200
+2024-05-23 09:47:08,897: INFO - Date: 06 April 2024 00:00 File: final_lwap_20240406.csv Status: 200
+2024-05-23 09:47:09,310: INFO - Date: 05 April 2024 00:00 File: final_lwap_20240405.csv Status: 200
+2024-05-23 09:47:09,687: INFO - Date: 04 April 2024 00:00 File: final_lwap_20240404.csv Status: 200
+2024-05-23 09:47:10,155: INFO - Date: 03 April 2024 00:00 File: final_lwap_20240403.csv Status: 200
+2024-05-23 09:47:10,694: INFO - Date: 02 April 2024 00:00 File: final_lwap_20240402.csv Status: 200
+2024-05-23 09:47:10,694: INFO - Downloading completed for lwap_final .. Exiting...
+2024-05-23 09:47:18,243: INFO - https://www.iemop.ph/market-data/generator-weighted-average-price-final
+2024-05-23 09:47:25,712: INFO - gwap_final -> Path: /generator-weighted-average-price-final 
+2024-05-23 09:47:25,749: INFO - Created folder for: C:\bucketGwap Final 
+2024-05-23 09:47:26,378: INFO - Date: 25 April 2024 00:00 File: final_gwap_20240425.csv Status: 200
+2024-05-23 09:47:27,127: INFO - Date: 24 April 2024 00:00 File: final_gwap_20240424.csv Status: 200
+2024-05-23 09:47:27,860: INFO - Date: 23 April 2024 00:00 File: final_gwap_20240423.csv Status: 200
+2024-05-23 09:47:28,944: INFO - Date: 22 April 2024 00:00 File: final_gwap_20240422.csv Status: 200
+2024-05-23 09:47:29,709: INFO - Date: 21 April 2024 00:00 File: final_gwap_20240421.csv Status: 200
+2024-05-23 09:47:30,469: INFO - Date: 20 April 2024 00:00 File: final_gwap_20240420.csv Status: 200
+2024-05-23 09:47:31,365: INFO - Date: 19 April 2024 00:00 File: final_gwap_20240419.csv Status: 200
+2024-05-23 09:47:38,365: INFO - Date: 18 April 2024 00:00 File: final_gwap_20240418.csv Status: 200
+2024-05-23 09:53:52,342: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-23 09:54:15,076: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-23 09:54:15,122: INFO - Created folder for: C:\bucketLwap Final 
+2024-05-23 09:54:15,575: INFO - Date: 25 April 2024 00:00 File: final_lwap_20240425.csv Status: 200
+2024-05-23 10:07:16,191: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-23 10:07:22,888: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-23 10:08:18,176: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-23 10:08:25,631: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-23 10:08:25,658: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\Lwap Final 
+2024-05-23 10:08:26,107: INFO - Date: 25 April 2024 00:00 File: final_lwap_20240425.csv Status: 200
+2024-05-23 10:08:26,504: INFO - Date: 24 April 2024 00:00 File: final_lwap_20240424.csv Status: 200
+2024-05-23 10:08:27,055: INFO - Date: 23 April 2024 00:00 File: final_lwap_20240423.csv Status: 200
+2024-05-23 10:08:27,632: INFO - Date: 22 April 2024 00:00 File: final_lwap_20240422.csv Status: 200
+2024-05-23 10:08:28,221: INFO - Date: 21 April 2024 00:00 File: final_lwap_20240421.csv Status: 200
+2024-05-23 10:08:28,578: INFO - Date: 20 April 2024 00:00 File: final_lwap_20240420.csv Status: 200
+2024-05-23 10:08:29,048: INFO - Date: 19 April 2024 00:00 File: final_lwap_20240419.csv Status: 200
+2024-05-23 10:08:30,127: INFO - Date: 18 April 2024 00:00 File: final_lwap_20240418.csv Status: 200
+2024-05-23 10:08:33,414: INFO - Date: 17 April 2024 00:00 File: final_lwap_20240417.csv Status: 200
+2024-05-23 10:08:42,334: INFO - Date: 16 April 2024 00:00 File: final_lwap_20240416.csv Status: 200
+2024-05-23 10:08:44,290: INFO - Date: 15 April 2024 00:00 File: final_lwap_20240415.csv Status: 200
+2024-05-23 10:08:44,645: INFO - Date: 14 April 2024 00:00 File: final_lwap_20240414.csv Status: 200
+2024-05-23 10:08:49,476: INFO - Date: 13 April 2024 00:00 File: final_lwap_20240413.csv Status: 200
+2024-05-23 10:08:49,859: INFO - Date: 12 April 2024 00:00 File: final_lwap_20240412.csv Status: 200
+2024-05-23 10:09:03,158: INFO - Date: 11 April 2024 00:00 File: final_lwap_20240411.csv Status: 200
+2024-05-23 10:09:03,559: INFO - Date: 10 April 2024 00:00 File: final_lwap_20240410.csv Status: 200
+2024-05-23 10:09:04,036: INFO - Date: 09 April 2024 00:00 File: final_lwap_20240409.csv Status: 200
+2024-05-23 10:09:04,619: INFO - Date: 08 April 2024 00:00 File: final_lwap_20240408.csv Status: 200
+2024-05-23 10:09:05,017: INFO - Date: 07 April 2024 00:00 File: final_lwap_20240407.csv Status: 200
+2024-05-23 10:09:05,468: INFO - Date: 06 April 2024 00:00 File: final_lwap_20240406.csv Status: 200
+2024-05-23 10:09:05,953: INFO - Date: 05 April 2024 00:00 File: final_lwap_20240405.csv Status: 200
+2024-05-23 10:09:06,431: INFO - Date: 04 April 2024 00:00 File: final_lwap_20240404.csv Status: 200
+2024-05-23 10:09:07,892: INFO - Date: 03 April 2024 00:00 File: final_lwap_20240403.csv Status: 200
+2024-05-23 10:09:08,424: INFO - Date: 02 April 2024 00:00 File: final_lwap_20240402.csv Status: 200
+2024-05-23 10:09:08,424: INFO - Downloading completed for lwap_final .. Exiting...
+2024-05-23 10:09:15,943: INFO - https://www.iemop.ph/market-data/generator-weighted-average-price-final
+2024-05-23 10:09:21,568: INFO - gwap_final -> Path: /generator-weighted-average-price-final 
+2024-05-23 10:09:21,599: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\Gwap Final 
+2024-05-23 10:09:21,988: INFO - Date: 25 April 2024 00:00 File: final_gwap_20240425.csv Status: 200
+2024-05-23 10:09:23,077: INFO - Date: 24 April 2024 00:00 File: final_gwap_20240424.csv Status: 200
+2024-05-23 10:09:23,451: INFO - Date: 23 April 2024 00:00 File: final_gwap_20240423.csv Status: 200
+2024-05-23 10:09:23,935: INFO - Date: 22 April 2024 00:00 File: final_gwap_20240422.csv Status: 200
+2024-05-23 10:09:24,410: INFO - Date: 21 April 2024 00:00 File: final_gwap_20240421.csv Status: 200
+2024-05-23 10:09:24,891: INFO - Date: 20 April 2024 00:00 File: final_gwap_20240420.csv Status: 200
+2024-05-23 10:09:25,406: INFO - Date: 19 April 2024 00:00 File: final_gwap_20240419.csv Status: 200
+2024-05-23 10:09:25,799: INFO - Date: 18 April 2024 00:00 File: final_gwap_20240418.csv Status: 200
+2024-05-23 10:09:26,159: INFO - Date: 17 April 2024 00:00 File: final_gwap_20240417.csv Status: 200
+2024-05-23 10:09:26,501: INFO - Date: 16 April 2024 00:00 File: final_gwap_20240416.csv Status: 200
+2024-05-23 10:09:26,894: INFO - Date: 15 April 2024 00:00 File: final_gwap_20240415.csv Status: 200
+2024-05-23 10:09:27,244: INFO - Date: 14 April 2024 00:00 File: final_gwap_20240414.csv Status: 200
+2024-05-23 10:09:27,719: INFO - Date: 13 April 2024 00:00 File: final_gwap_20240413.csv Status: 200
+2024-05-23 10:09:28,175: INFO - Date: 12 April 2024 00:00 File: final_gwap_20240412.csv Status: 200
+2024-05-23 10:09:28,721: INFO - Date: 11 April 2024 00:00 File: final_gwap_20240411.csv Status: 200
+2024-05-23 10:09:29,209: INFO - Date: 10 April 2024 00:00 File: final_gwap_20240410.csv Status: 200
+2024-05-23 10:09:37,721: INFO - Date: 09 April 2024 00:00 File: final_gwap_20240409.csv Status: 200
+2024-05-23 10:09:39,691: INFO - Date: 08 April 2024 00:00 File: final_gwap_20240408.csv Status: 200
+2024-05-23 10:09:42,939: INFO - Date: 07 April 2024 00:00 File: final_gwap_20240407.csv Status: 200
+2024-05-23 10:09:46,877: INFO - Date: 06 April 2024 00:00 File: final_gwap_20240406.csv Status: 200
+2024-05-23 10:10:45,363: INFO - Date: 05 April 2024 00:00 File: final_gwap_20240405.csv Status: 200
+2024-05-23 10:10:50,913: INFO - Date: 04 April 2024 00:00 File: final_gwap_20240404.csv Status: 200
+2024-05-23 10:10:51,430: INFO - Date: 03 April 2024 00:00 File: final_gwap_20240403.csv Status: 200
+2024-05-23 10:10:51,930: INFO - Date: 02 April 2024 00:00 File: final_gwap_20240402.csv Status: 200
+2024-05-23 10:10:51,930: INFO - Downloading completed for gwap_final .. Exiting...
+2024-05-23 10:10:59,464: INFO - https://www.iemop.ph/market-data/dipc-energy-results-final
+2024-05-23 10:11:06,948: INFO - dipc_final -> Path: /dipc-energy-results-final 
+2024-05-23 10:11:06,987: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\Dipc Final 
+2024-05-23 10:11:07,570: INFO - Date: 26 April 2024 00:00 File: DIPCEF_202404260000.zip Status: 200
+2024-05-23 10:11:07,997: INFO - Date: 25 April 2024 23:00 File: DIPCEF_202404252300.zip Status: 200
+2024-05-23 10:11:08,562: INFO - Date: 25 April 2024 22:00 File: DIPCEF_202404252200.zip Status: 200
+2024-05-23 10:11:08,980: INFO - Date: 25 April 2024 21:00 File: DIPCEF_202404252100.zip Status: 200
+2024-05-23 10:11:09,541: INFO - Date: 25 April 2024 20:00 File: DIPCEF_202404252000.zip Status: 200
+2024-05-23 10:11:10,013: INFO - Date: 25 April 2024 19:00 File: DIPCEF_202404251900.zip Status: 200
+2024-05-23 10:11:10,576: INFO - Date: 25 April 2024 18:00 File: DIPCEF_202404251800.zip Status: 200
+2024-05-23 10:11:11,142: INFO - Date: 25 April 2024 17:00 File: DIPCEF_202404251700.zip Status: 200
+2024-05-23 10:11:11,713: INFO - Date: 25 April 2024 16:00 File: DIPCEF_202404251600.zip Status: 200
+2024-05-23 10:11:12,328: INFO - Date: 25 April 2024 15:00 File: DIPCEF_202404251500.zip Status: 200
+2024-05-23 10:11:12,870: INFO - Date: 25 April 2024 14:00 File: DIPCEF_202404251400.zip Status: 200
+2024-05-23 10:11:13,284: INFO - Date: 25 April 2024 13:00 File: DIPCEF_202404251300.zip Status: 200
+2024-05-23 10:11:13,853: INFO - Date: 25 April 2024 12:00 File: DIPCEF_202404251200.zip Status: 200
+2024-05-23 10:11:14,902: INFO - Date: 25 April 2024 11:00 File: DIPCEF_202404251100.zip Status: 200
+2024-05-23 10:11:15,455: INFO - Date: 25 April 2024 10:00 File: DIPCEF_202404251000.zip Status: 200
+2024-05-23 10:11:16,385: INFO - Date: 25 April 2024 09:00 File: DIPCEF_202404250900.zip Status: 200
+2024-05-23 10:11:17,159: INFO - Date: 25 April 2024 08:00 File: DIPCEF_202404250800.zip Status: 200
+2024-05-23 10:11:17,987: INFO - Date: 25 April 2024 07:00 File: DIPCEF_202404250700.zip Status: 200
+2024-05-23 10:11:18,871: INFO - Date: 25 April 2024 06:00 File: DIPCEF_202404250600.zip Status: 200
+2024-05-23 10:11:19,807: INFO - Date: 25 April 2024 05:00 File: DIPCEF_202404250500.zip Status: 200
+2024-05-23 10:11:20,839: INFO - Date: 25 April 2024 04:00 File: DIPCEF_202404250400.zip Status: 200
+2024-05-23 10:11:21,685: INFO - Date: 25 April 2024 03:00 File: DIPCEF_202404250300.zip Status: 200
+2024-05-23 10:11:22,286: INFO - Date: 25 April 2024 02:00 File: DIPCEF_202404250200.zip Status: 200
+2024-05-23 10:11:22,777: INFO - Date: 25 April 2024 01:00 File: DIPCEF_202404250100.zip Status: 200
+2024-05-23 10:11:22,803: INFO - Downloading completed for dipc_final .. Exiting...
+2024-05-24 23:16:04,532: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-05-24 23:16:16,819: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-05-24 23:16:16,865: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\lwap final 
+2024-05-24 23:16:17,517: INFO - Date: 25 April 2024 00:00 File: final_lwap_20240425.csv Status: 200
+2024-05-24 23:16:17,921: INFO - Date: 24 April 2024 00:00 File: final_lwap_20240424.csv Status: 200
+2024-05-24 23:16:18,435: INFO - Date: 23 April 2024 00:00 File: final_lwap_20240423.csv Status: 200
+2024-05-24 23:16:19,002: INFO - Date: 22 April 2024 00:00 File: final_lwap_20240422.csv Status: 200
+2024-05-24 23:16:19,752: INFO - Date: 21 April 2024 00:00 File: final_lwap_20240421.csv Status: 200
+2024-05-24 23:16:20,119: INFO - Date: 20 April 2024 00:00 File: final_lwap_20240420.csv Status: 200
+2024-05-24 23:16:20,712: INFO - Date: 19 April 2024 00:00 File: final_lwap_20240419.csv Status: 200
+2024-05-24 23:16:21,068: INFO - Date: 18 April 2024 00:00 File: final_lwap_20240418.csv Status: 200
+2024-05-24 23:16:21,417: INFO - Date: 17 April 2024 00:00 File: final_lwap_20240417.csv Status: 200
+2024-05-24 23:16:21,918: INFO - Date: 16 April 2024 00:00 File: final_lwap_20240416.csv Status: 200
+2024-05-24 23:16:22,585: INFO - Date: 15 April 2024 00:00 File: final_lwap_20240415.csv Status: 200
+2024-05-24 23:16:23,902: INFO - Date: 14 April 2024 00:00 File: final_lwap_20240414.csv Status: 200
+2024-05-24 23:16:24,284: INFO - Date: 13 April 2024 00:00 File: final_lwap_20240413.csv Status: 200
+2024-05-24 23:16:24,635: INFO - Date: 12 April 2024 00:00 File: final_lwap_20240412.csv Status: 200
+2024-05-24 23:16:24,998: INFO - Date: 11 April 2024 00:00 File: final_lwap_20240411.csv Status: 200
+2024-05-24 23:16:25,479: INFO - Date: 10 April 2024 00:00 File: final_lwap_20240410.csv Status: 200
+2024-05-24 23:16:25,819: INFO - Date: 09 April 2024 00:00 File: final_lwap_20240409.csv Status: 200
+2024-05-24 23:16:26,188: INFO - Date: 08 April 2024 00:00 File: final_lwap_20240408.csv Status: 200
+2024-05-24 23:16:26,604: INFO - Date: 07 April 2024 00:00 File: final_lwap_20240407.csv Status: 200
+2024-05-24 23:16:26,988: INFO - Date: 06 April 2024 00:00 File: final_lwap_20240406.csv Status: 200
+2024-05-24 23:16:27,335: INFO - Date: 05 April 2024 00:00 File: final_lwap_20240405.csv Status: 200
+2024-05-24 23:16:27,695: INFO - Date: 04 April 2024 00:00 File: final_lwap_20240404.csv Status: 200
+2024-05-24 23:16:28,152: INFO - Date: 03 April 2024 00:00 File: final_lwap_20240403.csv Status: 200
+2024-05-24 23:16:28,617: INFO - Date: 02 April 2024 00:00 File: final_lwap_20240402.csv Status: 200
+2024-05-24 23:16:28,617: INFO - Downloading completed for lwap_final .. Exiting...
+2024-05-24 23:16:36,167: INFO - https://www.iemop.ph/market-data/generator-weighted-average-price-final
+2024-05-24 23:17:09,721: INFO - gwap_final -> Path: /generator-weighted-average-price-final 
+2024-05-24 23:17:09,755: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\gwap final 
+2024-05-24 23:17:10,190: INFO - Date: 25 April 2024 00:00 File: final_gwap_20240425.csv Status: 200
+2024-05-24 23:17:10,582: INFO - Date: 24 April 2024 00:00 File: final_gwap_20240424.csv Status: 200
+2024-05-24 23:17:10,949: INFO - Date: 23 April 2024 00:00 File: final_gwap_20240423.csv Status: 200
+2024-05-24 23:17:11,352: INFO - Date: 22 April 2024 00:00 File: final_gwap_20240422.csv Status: 200
+2024-05-24 23:17:11,712: INFO - Date: 21 April 2024 00:00 File: final_gwap_20240421.csv Status: 200
+2024-05-24 23:17:12,183: INFO - Date: 20 April 2024 00:00 File: final_gwap_20240420.csv Status: 200
+2024-05-24 23:17:12,652: INFO - Date: 19 April 2024 00:00 File: final_gwap_20240419.csv Status: 200
+2024-05-24 23:17:12,998: INFO - Date: 18 April 2024 00:00 File: final_gwap_20240418.csv Status: 200
+2024-05-24 23:17:13,362: INFO - Date: 17 April 2024 00:00 File: final_gwap_20240417.csv Status: 200
+2024-05-24 23:17:13,712: INFO - Date: 16 April 2024 00:00 File: final_gwap_20240416.csv Status: 200
+2024-05-24 23:17:14,102: INFO - Date: 15 April 2024 00:00 File: final_gwap_20240415.csv Status: 200
+2024-05-24 23:17:14,451: INFO - Date: 14 April 2024 00:00 File: final_gwap_20240414.csv Status: 200
+2024-05-24 23:17:14,852: INFO - Date: 13 April 2024 00:00 File: final_gwap_20240413.csv Status: 200
+2024-05-24 23:17:15,203: INFO - Date: 12 April 2024 00:00 File: final_gwap_20240412.csv Status: 200
+2024-05-24 23:17:16,436: INFO - Date: 11 April 2024 00:00 File: final_gwap_20240411.csv Status: 200
+2024-05-24 23:17:16,821: INFO - Date: 10 April 2024 00:00 File: final_gwap_20240410.csv Status: 200
+2024-05-24 23:17:17,169: INFO - Date: 09 April 2024 00:00 File: final_gwap_20240409.csv Status: 200
+2024-05-24 23:17:17,930: INFO - Date: 08 April 2024 00:00 File: final_gwap_20240408.csv Status: 200
+2024-05-24 23:17:18,653: INFO - Date: 07 April 2024 00:00 File: final_gwap_20240407.csv Status: 200
+2024-05-24 23:17:19,153: INFO - Date: 06 April 2024 00:00 File: final_gwap_20240406.csv Status: 200
+2024-05-24 23:17:19,707: INFO - Date: 05 April 2024 00:00 File: final_gwap_20240405.csv Status: 200
+2024-05-24 23:17:20,769: INFO - Date: 04 April 2024 00:00 File: final_gwap_20240404.csv Status: 200
+2024-05-24 23:17:21,353: INFO - Date: 03 April 2024 00:00 File: final_gwap_20240403.csv Status: 200
+2024-05-24 23:17:21,719: INFO - Date: 02 April 2024 00:00 File: final_gwap_20240402.csv Status: 200
+2024-05-24 23:17:21,724: INFO - Downloading completed for gwap_final .. Exiting...
+2024-05-24 23:17:29,370: INFO - https://www.iemop.ph/market-data/dipc-energy-results-final
+2024-05-24 23:17:33,802: INFO - dipc_final -> Path: /dipc-energy-results-final 
+2024-05-24 23:17:33,821: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\dipc final 
+2024-05-24 23:17:39,964: INFO - Date: 26 April 2024 00:00 File: DIPCEF_202404260000.zip Status: 200
+2024-05-24 23:17:49,264: INFO - Date: 25 April 2024 23:00 File: DIPCEF_202404252300.zip Status: 200
+2024-05-24 23:18:10,904: INFO - Date: 25 April 2024 22:00 File: DIPCEF_202404252200.zip Status: 200
+2024-05-24 23:18:11,517: INFO - Date: 25 April 2024 21:00 File: DIPCEF_202404252100.zip Status: 200
+2024-05-24 23:18:11,955: INFO - Date: 25 April 2024 20:00 File: DIPCEF_202404252000.zip Status: 200
+2024-05-24 23:18:12,410: INFO - Date: 25 April 2024 19:00 File: DIPCEF_202404251900.zip Status: 200
+2024-05-24 23:18:12,832: INFO - Date: 25 April 2024 18:00 File: DIPCEF_202404251800.zip Status: 200
+2024-05-24 23:18:13,266: INFO - Date: 25 April 2024 17:00 File: DIPCEF_202404251700.zip Status: 200
+2024-05-24 23:18:13,805: INFO - Date: 25 April 2024 16:00 File: DIPCEF_202404251600.zip Status: 200
+2024-05-24 23:18:14,369: INFO - Date: 25 April 2024 15:00 File: DIPCEF_202404251500.zip Status: 200
+2024-05-24 23:18:14,950: INFO - Date: 25 April 2024 14:00 File: DIPCEF_202404251400.zip Status: 200
+2024-05-24 23:18:15,389: INFO - Date: 25 April 2024 13:00 File: DIPCEF_202404251300.zip Status: 200
+2024-05-24 23:18:16,169: INFO - Date: 25 April 2024 12:00 File: DIPCEF_202404251200.zip Status: 200
+2024-05-24 23:18:16,596: INFO - Date: 25 April 2024 11:00 File: DIPCEF_202404251100.zip Status: 200
+2024-05-24 23:18:17,019: INFO - Date: 25 April 2024 10:00 File: DIPCEF_202404251000.zip Status: 200
+2024-05-24 23:18:17,502: INFO - Date: 25 April 2024 09:00 File: DIPCEF_202404250900.zip Status: 200
+2024-05-24 23:18:17,909: INFO - Date: 25 April 2024 08:00 File: DIPCEF_202404250800.zip Status: 200
+2024-05-24 23:18:18,389: INFO - Date: 25 April 2024 07:00 File: DIPCEF_202404250700.zip Status: 200
+2024-05-24 23:18:18,864: INFO - Date: 25 April 2024 06:00 File: DIPCEF_202404250600.zip Status: 200
+2024-05-24 23:18:19,295: INFO - Date: 25 April 2024 05:00 File: DIPCEF_202404250500.zip Status: 200
+2024-05-24 23:18:19,879: INFO - Date: 25 April 2024 04:00 File: DIPCEF_202404250400.zip Status: 200
+2024-05-24 23:18:20,297: INFO - Date: 25 April 2024 03:00 File: DIPCEF_202404250300.zip Status: 200
+2024-05-24 23:18:20,754: INFO - Date: 25 April 2024 02:00 File: DIPCEF_202404250200.zip Status: 200
+2024-05-24 23:18:21,331: INFO - Date: 25 April 2024 01:00 File: DIPCEF_202404250100.zip Status: 200
+2024-05-24 23:18:21,349: INFO - Downloading completed for dipc_final .. Exiting...
+2024-05-24 23:18:28,838: INFO - https://www.iemop.ph/market-data/mpi-advisories
+2024-05-24 23:18:34,689: INFO - mpi_advisories -> Path: /mpi-advisories 
+2024-05-24 23:18:34,711: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\mpi advisories 
+2024-05-24 23:18:47,099: INFO - Date: 23 May 2024 00:00 File: MPI_ADVISORIES_20240523.csv Status: 200
+2024-05-24 23:18:50,541: INFO - Date: 22 May 2024 00:00 File: MPI_ADVISORIES_20240522.csv Status: 200
+2024-05-24 23:18:50,845: INFO - Date: 21 May 2024 00:00 File: MPI_ADVISORIES_20240521.csv Status: 200
+2024-05-24 23:18:51,115: INFO - Date: 20 May 2024 00:00 File: MPI_ADVISORIES_20240520.csv Status: 200
+2024-05-24 23:18:51,366: INFO - Date: 19 May 2024 00:00 File: MPI_ADVISORIES_20240519.csv Status: 200
+2024-05-24 23:18:55,650: INFO - Date: 18 May 2024 00:00 File: MPI_ADVISORIES_20240518.csv Status: 200
+2024-05-24 23:18:56,101: INFO - Date: 17 May 2024 00:00 File: MPI_ADVISORIES_20240517.csv Status: 200
+2024-05-24 23:18:56,431: INFO - Date: 16 May 2024 00:00 File: MPI_ADVISORIES_20240516.csv Status: 200
+2024-05-24 23:18:56,775: INFO - Date: 15 May 2024 00:00 File: MPI_ADVISORIES_20240515.csv Status: 200
+2024-05-24 23:18:57,087: INFO - Date: 14 May 2024 00:00 File: MPI_ADVISORIES_20240514.csv Status: 200
+2024-05-24 23:18:57,916: INFO - Date: 13 May 2024 00:00 File: MPI_ADVISORIES_20240513.csv Status: 200
+2024-05-24 23:18:58,228: INFO - Date: 12 May 2024 00:00 File: MPI_ADVISORIES_20240512.csv Status: 200
+2024-05-24 23:18:58,543: INFO - Date: 11 May 2024 00:00 File: MPI_ADVISORIES_20240511.csv Status: 200
+2024-05-24 23:18:58,799: INFO - Date: 10 May 2024 00:00 File: MPI_ADVISORIES_20240510.csv Status: 200
+2024-05-24 23:18:59,040: INFO - Date: 09 May 2024 00:00 File: MPI_ADVISORIES_20240509.csv Status: 200
+2024-05-24 23:18:59,382: INFO - Date: 08 May 2024 00:00 File: MPI_ADVISORIES_20240508.csv Status: 200
+2024-05-24 23:18:59,695: INFO - Date: 07 May 2024 00:00 File: MPI_ADVISORIES_20240507.csv Status: 200
+2024-05-24 23:19:14,979: INFO - Date: 06 May 2024 00:00 File: MPI_ADVISORIES_20240506.csv Status: 200
+2024-05-24 23:19:15,267: INFO - Date: 05 May 2024 00:00 File: MPI_ADVISORIES_20240505.csv Status: 200
+2024-05-24 23:19:15,587: INFO - Date: 04 May 2024 00:00 File: MPI_ADVISORIES_20240504.csv Status: 200
+2024-05-24 23:19:15,834: INFO - Date: 03 May 2024 00:00 File: MPI_ADVISORIES_20240503.csv Status: 200
+2024-05-24 23:19:16,170: INFO - Date: 02 May 2024 00:00 File: MPI_ADVISORIES_20240502.csv Status: 200
+2024-05-24 23:19:16,465: INFO - Date: 01 May 2024 00:00 File: MPI_ADVISORIES_20240501.csv Status: 200
+2024-05-24 23:19:16,699: INFO - Date: 30 April 2024 00:00 File: MPI_ADVISORIES_20240430.csv Status: 200
+2024-05-24 23:19:16,717: INFO - Downloading completed for mpi_advisories .. Exiting...
+2024-05-24 23:19:24,191: INFO - https://www.iemop.ph/market-data/rtd-hvdc-schedules
+2024-05-24 23:19:29,006: INFO - hvdc_schedules -> Path: /rtd-hvdc-schedules 
+2024-05-24 23:19:29,038: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\hvdc schedules 
+2024-05-24 23:19:29,509: INFO - Date: 23 May 2024 00:00 File: RTDHS_20240523.csv Status: 200
+2024-05-24 23:19:29,860: INFO - Date: 22 May 2024 00:00 File: RTDHS_20240522.csv Status: 200
+2024-05-24 23:19:30,225: INFO - Date: 21 May 2024 00:00 File: RTDHS_20240521.csv Status: 200
+2024-05-24 23:19:30,602: INFO - Date: 20 May 2024 00:00 File: RTDHS_20240520.csv Status: 200
+2024-05-24 23:19:30,980: INFO - Date: 19 May 2024 00:00 File: RTDHS_20240519.csv Status: 200
+2024-05-24 23:19:31,374: INFO - Date: 18 May 2024 00:00 File: RTDHS_20240518.csv Status: 200
+2024-05-24 23:19:47,956: INFO - Date: 17 May 2024 00:00 File: RTDHS_20240517.csv Status: 200
+2024-05-24 23:19:48,264: INFO - Date: 16 May 2024 00:00 File: RTDHS_20240516.csv Status: 200
+2024-05-24 23:19:48,565: INFO - Date: 15 May 2024 00:00 File: RTDHS_20240515.csv Status: 200
+2024-05-24 23:19:48,833: INFO - Date: 14 May 2024 00:00 File: RTDHS_20240514.csv Status: 200
+2024-05-24 23:19:49,175: INFO - Date: 13 May 2024 00:00 File: RTDHS_20240513.csv Status: 200
+2024-05-24 23:19:49,552: INFO - Date: 12 May 2024 00:00 File: RTDHS_20240512.csv Status: 200
+2024-05-24 23:20:07,755: INFO - Date: 11 May 2024 00:00 File: RTDHS_20240511.csv Status: 200
+2024-05-24 23:20:08,315: INFO - Date: 10 May 2024 00:00 File: RTDHS_20240510.csv Status: 200
+2024-05-24 23:20:08,725: INFO - Date: 09 May 2024 00:00 File: RTDHS_20240509.csv Status: 200
+2024-05-24 23:20:09,026: INFO - Date: 08 May 2024 00:00 File: RTDHS_20240508.csv Status: 200
+2024-05-24 23:20:09,331: INFO - Date: 07 May 2024 00:00 File: RTDHS_20240507.csv Status: 200
+2024-05-24 23:20:09,733: INFO - Date: 06 May 2024 00:00 File: RTDHS_20240506.csv Status: 200
+2024-05-24 23:20:10,081: INFO - Date: 05 May 2024 00:00 File: RTDHS_20240505.csv Status: 200
+2024-05-24 23:20:10,443: INFO - Date: 04 May 2024 00:00 File: RTDHS_20240504.csv Status: 200
+2024-05-24 23:20:10,841: INFO - Date: 03 May 2024 00:00 File: RTDHS_20240503.csv Status: 200
+2024-05-24 23:20:11,315: INFO - Date: 02 May 2024 00:00 File: RTDHS_20240502.csv Status: 200
+2024-05-24 23:20:11,676: INFO - Date: 01 May 2024 00:00 File: RTDHS_20240501.csv Status: 200
+2024-05-24 23:20:12,044: INFO - Date: 30 April 2024 00:00 File: RTDHS_20240430.csv Status: 200
+2024-05-24 23:20:12,046: INFO - Downloading completed for hvdc_schedules .. Exiting...
+2024-05-24 23:20:19,576: INFO - https://www.iemop.ph/market-data/rtd-market-clearing-price
+2024-05-24 23:20:31,094: INFO - marginal_prices -> Path: /rtd-market-clearing-price 
+2024-05-24 23:20:31,150: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\marginal prices 
+2024-05-24 23:20:31,520: INFO - Date: 23 May 2024 00:00 File: MP_20240523.csv Status: 200
+2024-05-24 23:20:31,916: INFO - Date: 22 May 2024 00:00 File: MP_20240522.csv Status: 200
+2024-05-24 23:20:39,770: INFO - Date: 21 May 2024 00:00 File: MP_20240521.csv Status: 200
+2024-05-24 23:20:46,608: INFO - Date: 20 May 2024 00:00 File: MP_20240520.csv Status: 200
+2024-05-24 23:20:50,607: INFO - Date: 19 May 2024 00:00 File: MP_20240519.csv Status: 200
+2024-05-24 23:20:51,011: INFO - Date: 18 May 2024 00:00 File: MP_20240518.csv Status: 200
+2024-05-24 23:20:54,990: INFO - Date: 17 May 2024 00:00 File: MP_20240517.csv Status: 200
+2024-05-24 23:20:55,542: INFO - Date: 16 May 2024 00:00 File: MP_20240516.csv Status: 200
+2024-05-24 23:20:56,128: INFO - Date: 15 May 2024 00:00 File: MP_20240515.csv Status: 200
+2024-05-24 23:20:57,431: INFO - Date: 14 May 2024 00:00 File: MP_20240514.csv Status: 200
+2024-05-24 23:20:57,806: INFO - Date: 13 May 2024 00:00 File: MP_20240513.csv Status: 200
+2024-05-24 23:20:58,174: INFO - Date: 12 May 2024 00:00 File: MP_20240512.csv Status: 200
+2024-05-24 23:20:58,539: INFO - Date: 11 May 2024 00:00 File: MP_20240511.csv Status: 200
+2024-05-24 23:20:58,967: INFO - Date: 10 May 2024 00:00 File: MP_20240510.csv Status: 200
+2024-05-24 23:20:59,378: INFO - Date: 09 May 2024 00:00 File: MP_20240509.csv Status: 200
+2024-05-24 23:20:59,762: INFO - Date: 08 May 2024 00:00 File: MP_20240508.csv Status: 200
+2024-05-24 23:21:00,226: INFO - Date: 07 May 2024 00:00 File: MP_20240507.csv Status: 200
+2024-05-24 23:21:00,679: INFO - Date: 06 May 2024 00:00 File: MP_20240506.csv Status: 200
+2024-05-24 23:21:01,030: INFO - Date: 05 May 2024 00:00 File: MP_20240505.csv Status: 200
+2024-05-24 23:21:01,383: INFO - Date: 04 May 2024 00:00 File: MP_20240504.csv Status: 200
+2024-05-24 23:21:01,841: INFO - Date: 03 May 2024 00:00 File: MP_20240503.csv Status: 200
+2024-05-24 23:21:17,326: INFO - Date: 02 May 2024 00:00 File: MP_20240502.csv Status: 200
+2024-05-24 23:21:17,710: INFO - Date: 01 May 2024 00:00 File: MP_20240501.csv Status: 200
+2024-05-24 23:21:18,057: INFO - Date: 30 April 2024 00:00 File: MP_20240430.csv Status: 200
+2024-05-24 23:21:18,057: INFO - Downloading completed for marginal_prices .. Exiting...
+2024-05-24 23:21:25,546: INFO - https://www.iemop.ph/market-data/rtd-regional-summaries
+2024-05-24 23:21:30,096: INFO - regional_summaries -> Path: /rtd-regional-summaries 
+2024-05-24 23:21:30,137: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\regional summaries 
+2024-05-24 23:21:30,597: INFO - Date: 23 May 2024 00:00 File: RTDREG_20240523.csv Status: 200
+2024-05-24 23:21:31,206: INFO - Date: 22 May 2024 00:00 File: RTDREG_20240522.csv Status: 200
+2024-05-24 23:21:31,761: INFO - Date: 21 May 2024 00:00 File: RTDREG_20240521.csv Status: 200
+2024-05-24 23:21:38,869: INFO - Date: 20 May 2024 00:00 File: RTDREG_20240520.csv Status: 200
+2024-05-24 23:21:46,258: INFO - Date: 19 May 2024 00:00 File: RTDREG_20240519.csv Status: 200
+2024-05-24 23:21:49,286: INFO - Date: 18 May 2024 00:00 File: RTDREG_20240518.csv Status: 200
+2024-05-24 23:21:49,837: INFO - Date: 17 May 2024 00:00 File: RTDREG_20240517.csv Status: 200
+2024-05-24 23:21:50,400: INFO - Date: 16 May 2024 00:00 File: RTDREG_20240516.csv Status: 200
+2024-05-24 23:21:50,986: INFO - Date: 15 May 2024 00:00 File: RTDREG_20240515.csv Status: 200
+2024-05-24 23:22:07,121: INFO - Date: 14 May 2024 00:00 File: RTDREG_20240514.csv Status: 200
+2024-05-24 23:22:07,867: INFO - Date: 13 May 2024 00:00 File: RTDREG_20240513.csv Status: 200
+2024-05-24 23:22:08,388: INFO - Date: 12 May 2024 00:00 File: RTDREG_20240512.csv Status: 200
+2024-05-24 23:22:09,054: INFO - Date: 11 May 2024 00:00 File: RTDREG_20240511.csv Status: 200
+2024-05-24 23:22:09,528: INFO - Date: 10 May 2024 00:00 File: RTDREG_20240510.csv Status: 200
+2024-05-24 23:22:10,011: INFO - Date: 09 May 2024 00:00 File: RTDREG_20240509.csv Status: 200
+2024-05-24 23:22:10,532: INFO - Date: 08 May 2024 00:00 File: RTDREG_20240508.csv Status: 200
+2024-05-24 23:22:12,063: INFO - Date: 07 May 2024 00:00 File: RTDREG_20240507.csv Status: 200
+2024-05-24 23:22:12,607: INFO - Date: 06 May 2024 00:00 File: RTDREG_20240506.csv Status: 200
+2024-05-24 23:22:13,098: INFO - Date: 05 May 2024 00:00 File: RTDREG_20240505.csv Status: 200
+2024-05-24 23:22:13,722: INFO - Date: 04 May 2024 00:00 File: RTDREG_20240504.csv Status: 200
+2024-05-24 23:22:14,213: INFO - Date: 03 May 2024 00:00 File: RTDREG_20240503.csv Status: 200
+2024-05-24 23:22:14,709: INFO - Date: 02 May 2024 00:00 File: RTDREG_20240502.csv Status: 200
+2024-05-24 23:22:15,167: INFO - Date: 01 May 2024 00:00 File: RTDREG_20240501.csv Status: 200
+2024-05-24 23:22:15,641: INFO - Date: 30 April 2024 00:00 File: RTDREG_20240430.csv Status: 200
+2024-05-24 23:22:15,641: INFO - Downloading completed for regional_summaries .. Exiting...
+2024-06-17 15:32:01,698: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 15:32:06,471: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 15:32:06,488: INFO - [<div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240526.csv				        								<div class="market-data-dl-date">26 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MjYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240525.csv				        								<div class="market-data-dl-date">25 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MjUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240524.csv				        								<div class="market-data-dl-date">24 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MjQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240523.csv				        								<div class="market-data-dl-date">23 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MjMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240522.csv				        								<div class="market-data-dl-date">22 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MjIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240521.csv				        								<div class="market-data-dl-date">21 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MjEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240520.csv				        								<div class="market-data-dl-date">20 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MjAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240519.csv				        								<div class="market-data-dl-date">19 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240518.csv				        								<div class="market-data-dl-date">18 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240517.csv				        								<div class="market-data-dl-date">17 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240516.csv				        								<div class="market-data-dl-date">16 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240515.csv				        								<div class="market-data-dl-date">15 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240514.csv				        								<div class="market-data-dl-date">14 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240513.csv				        								<div class="market-data-dl-date">13 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240512.csv				        								<div class="market-data-dl-date">12 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240511.csv				        								<div class="market-data-dl-date">11 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240510.csv				        								<div class="market-data-dl-date">10 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MTAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240509.csv				        								<div class="market-data-dl-date">09 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MDkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240508.csv				        								<div class="market-data-dl-date">08 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MDguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240507.csv				        								<div class="market-data-dl-date">07 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MDcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240506.csv				        								<div class="market-data-dl-date">06 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MDYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240505.csv				        								<div class="market-data-dl-date">05 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MDUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240504.csv				        								<div class="market-data-dl-date">04 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MDQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_lwap_20240503.csv				        								<div class="market-data-dl-date">03 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxsd2FwL2ZpbmFsX2x3YXBfMjAyNDA1MDMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>]
+2024-06-17 15:32:06,511: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\lwap final 
+2024-06-17 15:32:07,084: INFO - Date: 26 May 2024 00:00 File: final_lwap_20240526.csv Status: 200
+2024-06-17 15:32:07,521: INFO - Date: 25 May 2024 00:00 File: final_lwap_20240525.csv Status: 200
+2024-06-17 15:32:07,945: INFO - Date: 24 May 2024 00:00 File: final_lwap_20240524.csv Status: 200
+2024-06-17 15:32:08,474: INFO - Date: 23 May 2024 00:00 File: final_lwap_20240523.csv Status: 200
+2024-06-17 15:32:08,926: INFO - Date: 22 May 2024 00:00 File: final_lwap_20240522.csv Status: 200
+2024-06-17 15:32:09,415: INFO - Date: 21 May 2024 00:00 File: final_lwap_20240521.csv Status: 200
+2024-06-17 15:32:09,926: INFO - Date: 20 May 2024 00:00 File: final_lwap_20240520.csv Status: 200
+2024-06-17 15:32:10,650: INFO - Date: 19 May 2024 00:00 File: final_lwap_20240519.csv Status: 200
+2024-06-17 15:32:11,157: INFO - Date: 18 May 2024 00:00 File: final_lwap_20240518.csv Status: 200
+2024-06-17 15:32:11,589: INFO - Date: 17 May 2024 00:00 File: final_lwap_20240517.csv Status: 200
+2024-06-17 15:32:12,171: INFO - Date: 16 May 2024 00:00 File: final_lwap_20240516.csv Status: 200
+2024-06-17 15:32:12,737: INFO - Date: 15 May 2024 00:00 File: final_lwap_20240515.csv Status: 200
+2024-06-17 15:32:13,308: INFO - Date: 14 May 2024 00:00 File: final_lwap_20240514.csv Status: 200
+2024-06-17 15:32:13,816: INFO - Date: 13 May 2024 00:00 File: final_lwap_20240513.csv Status: 200
+2024-06-17 15:32:14,246: INFO - Date: 12 May 2024 00:00 File: final_lwap_20240512.csv Status: 200
+2024-06-17 15:32:14,638: INFO - Date: 11 May 2024 00:00 File: final_lwap_20240511.csv Status: 200
+2024-06-17 15:32:15,242: INFO - Date: 10 May 2024 00:00 File: final_lwap_20240510.csv Status: 200
+2024-06-17 15:32:15,652: INFO - Date: 09 May 2024 00:00 File: final_lwap_20240509.csv Status: 200
+2024-06-17 15:32:16,210: INFO - Date: 08 May 2024 00:00 File: final_lwap_20240508.csv Status: 200
+2024-06-17 15:32:16,785: INFO - Date: 07 May 2024 00:00 File: final_lwap_20240507.csv Status: 200
+2024-06-17 15:32:17,296: INFO - Date: 06 May 2024 00:00 File: final_lwap_20240506.csv Status: 200
+2024-06-17 15:32:17,816: INFO - Date: 05 May 2024 00:00 File: final_lwap_20240505.csv Status: 200
+2024-06-17 15:32:18,220: INFO - Date: 04 May 2024 00:00 File: final_lwap_20240504.csv Status: 200
+2024-06-17 15:32:18,590: INFO - Date: 03 May 2024 00:00 File: final_lwap_20240503.csv Status: 200
+2024-06-17 15:32:18,590: INFO - Downloading completed for lwap_final .. Exiting...
+2024-06-17 15:32:26,071: INFO - https://www.iemop.ph/market-data/generator-weighted-average-price-final
+2024-06-17 15:32:30,339: INFO - gwap_final -> Path: /generator-weighted-average-price-final 
+2024-06-17 15:32:30,362: INFO - [<div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240525.csv				        								<div class="market-data-dl-date">25 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MjUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240524.csv				        								<div class="market-data-dl-date">24 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MjQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240523.csv				        								<div class="market-data-dl-date">23 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MjMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240522.csv				        								<div class="market-data-dl-date">22 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MjIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240521.csv				        								<div class="market-data-dl-date">21 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MjEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240520.csv				        								<div class="market-data-dl-date">20 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MjAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240519.csv				        								<div class="market-data-dl-date">19 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240518.csv				        								<div class="market-data-dl-date">18 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240517.csv				        								<div class="market-data-dl-date">17 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240516.csv				        								<div class="market-data-dl-date">16 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240515.csv				        								<div class="market-data-dl-date">15 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240514.csv				        								<div class="market-data-dl-date">14 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240513.csv				        								<div class="market-data-dl-date">13 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240512.csv				        								<div class="market-data-dl-date">12 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240511.csv				        								<div class="market-data-dl-date">11 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240510.csv				        								<div class="market-data-dl-date">10 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MTAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240509.csv				        								<div class="market-data-dl-date">09 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240508.csv				        								<div class="market-data-dl-date">08 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240507.csv				        								<div class="market-data-dl-date">07 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240506.csv				        								<div class="market-data-dl-date">06 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240505.csv				        								<div class="market-data-dl-date">05 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240504.csv				        								<div class="market-data-dl-date">04 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240503.csv				        								<div class="market-data-dl-date">03 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								final_gwap_20240502.csv				        								<div class="market-data-dl-date">02 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvZmluYWxnd2FwL2ZpbmFsX2d3YXBfMjAyNDA1MDIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>]
+2024-06-17 15:32:30,379: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\gwap final 
+2024-06-17 15:32:31,873: INFO - Date: 25 May 2024 00:00 File: final_gwap_20240525.csv Status: 200
+2024-06-17 15:32:33,551: INFO - Date: 24 May 2024 00:00 File: final_gwap_20240524.csv Status: 200
+2024-06-17 15:32:37,238: INFO - Date: 23 May 2024 00:00 File: final_gwap_20240523.csv Status: 200
+2024-06-17 15:32:40,034: INFO - Date: 22 May 2024 00:00 File: final_gwap_20240522.csv Status: 200
+2024-06-17 15:32:47,555: INFO - Date: 21 May 2024 00:00 File: final_gwap_20240521.csv Status: 200
+2024-06-17 15:32:48,213: INFO - Date: 20 May 2024 00:00 File: final_gwap_20240520.csv Status: 200
+2024-06-17 15:32:48,889: INFO - Date: 19 May 2024 00:00 File: final_gwap_20240519.csv Status: 200
+2024-06-17 15:32:49,447: INFO - Date: 18 May 2024 00:00 File: final_gwap_20240518.csv Status: 200
+2024-06-17 15:32:49,907: INFO - Date: 17 May 2024 00:00 File: final_gwap_20240517.csv Status: 200
+2024-06-17 15:32:50,474: INFO - Date: 16 May 2024 00:00 File: final_gwap_20240516.csv Status: 200
+2024-06-17 15:32:50,822: INFO - Date: 15 May 2024 00:00 File: final_gwap_20240515.csv Status: 200
+2024-06-17 15:32:51,201: INFO - Date: 14 May 2024 00:00 File: final_gwap_20240514.csv Status: 200
+2024-06-17 15:32:51,586: INFO - Date: 13 May 2024 00:00 File: final_gwap_20240513.csv Status: 200
+2024-06-17 15:32:52,006: INFO - Date: 12 May 2024 00:00 File: final_gwap_20240512.csv Status: 200
+2024-06-17 15:32:52,516: INFO - Date: 11 May 2024 00:00 File: final_gwap_20240511.csv Status: 200
+2024-06-17 15:32:52,924: INFO - Date: 10 May 2024 00:00 File: final_gwap_20240510.csv Status: 200
+2024-06-17 15:32:53,293: INFO - Date: 09 May 2024 00:00 File: final_gwap_20240509.csv Status: 200
+2024-06-17 15:32:53,718: INFO - Date: 08 May 2024 00:00 File: final_gwap_20240508.csv Status: 200
+2024-06-17 15:32:54,107: INFO - Date: 07 May 2024 00:00 File: final_gwap_20240507.csv Status: 200
+2024-06-17 15:32:54,618: INFO - Date: 06 May 2024 00:00 File: final_gwap_20240506.csv Status: 200
+2024-06-17 15:32:55,105: INFO - Date: 05 May 2024 00:00 File: final_gwap_20240505.csv Status: 200
+2024-06-17 15:32:55,526: INFO - Date: 04 May 2024 00:00 File: final_gwap_20240504.csv Status: 200
+2024-06-17 15:32:56,058: INFO - Date: 03 May 2024 00:00 File: final_gwap_20240503.csv Status: 200
+2024-06-17 15:32:56,514: INFO - Date: 02 May 2024 00:00 File: final_gwap_20240502.csv Status: 200
+2024-06-17 15:32:56,524: INFO - Downloading completed for gwap_final .. Exiting...
+2024-06-17 15:33:03,959: INFO - https://www.iemop.ph/market-data/dipc-energy-results-final
+2024-06-17 15:33:09,458: INFO - dipc_final -> Path: /dipc-energy-results-final 
+2024-06-17 15:33:09,487: INFO - [<div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405260000.zip				        								<div class="market-data-dl-date">26 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNjAwMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405252300.zip				        								<div class="market-data-dl-date">25 May 2024 23:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTIzMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405252200.zip				        								<div class="market-data-dl-date">25 May 2024 22:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTIyMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405252100.zip				        								<div class="market-data-dl-date">25 May 2024 21:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTIxMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405252000.zip				        								<div class="market-data-dl-date">25 May 2024 20:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTIwMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251900.zip				        								<div class="market-data-dl-date">25 May 2024 19:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTE5MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251800.zip				        								<div class="market-data-dl-date">25 May 2024 18:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTE4MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251700.zip				        								<div class="market-data-dl-date">25 May 2024 17:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTE3MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251600.zip				        								<div class="market-data-dl-date">25 May 2024 16:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTE2MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251500.zip				        								<div class="market-data-dl-date">25 May 2024 15:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTE1MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251400.zip				        								<div class="market-data-dl-date">25 May 2024 14:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTE0MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251300.zip				        								<div class="market-data-dl-date">25 May 2024 13:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTEzMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251200.zip				        								<div class="market-data-dl-date">25 May 2024 12:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTEyMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251100.zip				        								<div class="market-data-dl-date">25 May 2024 11:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTExMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405251000.zip				        								<div class="market-data-dl-date">25 May 2024 10:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTEwMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250900.zip				        								<div class="market-data-dl-date">25 May 2024 09:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTA5MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250800.zip				        								<div class="market-data-dl-date">25 May 2024 08:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTA4MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250700.zip				        								<div class="market-data-dl-date">25 May 2024 07:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTA3MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250600.zip				        								<div class="market-data-dl-date">25 May 2024 06:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTA2MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250500.zip				        								<div class="market-data-dl-date">25 May 2024 05:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTA1MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250400.zip				        								<div class="market-data-dl-date">25 May 2024 04:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTA0MDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250300.zip				        								<div class="market-data-dl-date">25 May 2024 03:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTAzMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250200.zip				        								<div class="market-data-dl-date">25 May 2024 02:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTAyMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								DIPCEF_202405250100.zip				        								<div class="market-data-dl-date">25 May 2024 01:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VGL0RJUENFRl8yMDI0MDUyNTAxMDAuemlw"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>]
+2024-06-17 15:33:09,498: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\dipc final 
+2024-06-17 15:33:10,127: INFO - Date: 26 May 2024 00:00 File: DIPCEF_202405260000.zip Status: 200
+2024-06-17 15:33:10,758: INFO - Date: 25 May 2024 23:00 File: DIPCEF_202405252300.zip Status: 200
+2024-06-17 15:33:11,316: INFO - Date: 25 May 2024 22:00 File: DIPCEF_202405252200.zip Status: 200
+2024-06-17 15:33:11,977: INFO - Date: 25 May 2024 21:00 File: DIPCEF_202405252100.zip Status: 200
+2024-06-17 15:33:12,574: INFO - Date: 25 May 2024 20:00 File: DIPCEF_202405252000.zip Status: 200
+2024-06-17 15:33:13,024: INFO - Date: 25 May 2024 19:00 File: DIPCEF_202405251900.zip Status: 200
+2024-06-17 15:33:13,674: INFO - Date: 25 May 2024 18:00 File: DIPCEF_202405251800.zip Status: 200
+2024-06-17 15:33:14,157: INFO - Date: 25 May 2024 17:00 File: DIPCEF_202405251700.zip Status: 200
+2024-06-17 15:33:14,665: INFO - Date: 25 May 2024 16:00 File: DIPCEF_202405251600.zip Status: 200
+2024-06-17 15:33:15,140: INFO - Date: 25 May 2024 15:00 File: DIPCEF_202405251500.zip Status: 200
+2024-06-17 15:33:15,752: INFO - Date: 25 May 2024 14:00 File: DIPCEF_202405251400.zip Status: 200
+2024-06-17 15:33:16,259: INFO - Date: 25 May 2024 13:00 File: DIPCEF_202405251300.zip Status: 200
+2024-06-17 15:33:16,923: INFO - Date: 25 May 2024 12:00 File: DIPCEF_202405251200.zip Status: 200
+2024-06-17 15:33:17,441: INFO - Date: 25 May 2024 11:00 File: DIPCEF_202405251100.zip Status: 200
+2024-06-17 15:33:17,873: INFO - Date: 25 May 2024 10:00 File: DIPCEF_202405251000.zip Status: 200
+2024-06-17 15:33:18,303: INFO - Date: 25 May 2024 09:00 File: DIPCEF_202405250900.zip Status: 200
+2024-06-17 15:33:18,873: INFO - Date: 25 May 2024 08:00 File: DIPCEF_202405250800.zip Status: 200
+2024-06-17 15:33:19,354: INFO - Date: 25 May 2024 07:00 File: DIPCEF_202405250700.zip Status: 200
+2024-06-17 15:33:19,933: INFO - Date: 25 May 2024 06:00 File: DIPCEF_202405250600.zip Status: 200
+2024-06-17 15:33:20,536: INFO - Date: 25 May 2024 05:00 File: DIPCEF_202405250500.zip Status: 200
+2024-06-17 15:33:21,097: INFO - Date: 25 May 2024 04:00 File: DIPCEF_202405250400.zip Status: 200
+2024-06-17 15:33:21,728: INFO - Date: 25 May 2024 03:00 File: DIPCEF_202405250300.zip Status: 200
+2024-06-17 15:33:22,274: INFO - Date: 25 May 2024 02:00 File: DIPCEF_202405250200.zip Status: 200
+2024-06-17 15:33:22,896: INFO - Date: 25 May 2024 01:00 File: DIPCEF_202405250100.zip Status: 200
+2024-06-17 15:33:22,924: INFO - Downloading completed for dipc_final .. Exiting...
+2024-06-17 15:33:30,431: INFO - https://www.iemop.ph/market-data/mpi-advisories
+2024-06-17 15:33:45,226: INFO - mpi_advisories -> Path: /mpi-advisories 
+2024-06-17 15:33:45,260: INFO - [<div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240616.csv				        								<div class="market-data-dl-date">16 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240615.csv				        								<div class="market-data-dl-date">15 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240614.csv				        								<div class="market-data-dl-date">14 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240613.csv				        								<div class="market-data-dl-date">13 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240612.csv				        								<div class="market-data-dl-date">12 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240611.csv				        								<div class="market-data-dl-date">11 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240610.csv				        								<div class="market-data-dl-date">10 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240609.csv				        								<div class="market-data-dl-date">09 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240608.csv				        								<div class="market-data-dl-date">08 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240607.csv				        								<div class="market-data-dl-date">07 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240606.csv				        								<div class="market-data-dl-date">06 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240605.csv				        								<div class="market-data-dl-date">05 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240604.csv				        								<div class="market-data-dl-date">04 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240603.csv				        								<div class="market-data-dl-date">03 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240602.csv				        								<div class="market-data-dl-date">02 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240601.csv				        								<div class="market-data-dl-date">01 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MDEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240531.csv				        								<div class="market-data-dl-date">31 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MzEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240530.csv				        								<div class="market-data-dl-date">30 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MzAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240529.csv				        								<div class="market-data-dl-date">29 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MjkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240528.csv				        								<div class="market-data-dl-date">28 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MjguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240527.csv				        								<div class="market-data-dl-date">27 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MjcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240526.csv				        								<div class="market-data-dl-date">26 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MjYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240525.csv				        								<div class="market-data-dl-date">25 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MjUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								MPI_ADVISORIES_20240524.csv				        								<div class="market-data-dl-date">24 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA1MjQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>]
+2024-06-17 15:33:45,265: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\mpi advisories 
+2024-06-17 15:33:45,573: INFO - Date: 16 June 2024 00:00 File: MPI_ADVISORIES_20240616.csv Status: 200
+2024-06-17 15:33:45,832: INFO - Date: 15 June 2024 00:00 File: MPI_ADVISORIES_20240615.csv Status: 200
+2024-06-17 15:33:46,141: INFO - Date: 14 June 2024 00:00 File: MPI_ADVISORIES_20240614.csv Status: 200
+2024-06-17 15:33:46,430: INFO - Date: 13 June 2024 00:00 File: MPI_ADVISORIES_20240613.csv Status: 200
+2024-06-17 15:33:46,713: INFO - Date: 12 June 2024 00:00 File: MPI_ADVISORIES_20240612.csv Status: 200
+2024-06-17 15:33:46,998: INFO - Date: 11 June 2024 00:00 File: MPI_ADVISORIES_20240611.csv Status: 200
+2024-06-17 15:33:47,360: INFO - Date: 10 June 2024 00:00 File: MPI_ADVISORIES_20240610.csv Status: 200
+2024-06-17 15:33:47,670: INFO - Date: 09 June 2024 00:00 File: MPI_ADVISORIES_20240609.csv Status: 200
+2024-06-17 15:33:48,058: INFO - Date: 08 June 2024 00:00 File: MPI_ADVISORIES_20240608.csv Status: 200
+2024-06-17 15:33:48,332: INFO - Date: 07 June 2024 00:00 File: MPI_ADVISORIES_20240607.csv Status: 200
+2024-06-17 15:33:48,680: INFO - Date: 06 June 2024 00:00 File: MPI_ADVISORIES_20240606.csv Status: 200
+2024-06-17 15:33:48,966: INFO - Date: 05 June 2024 00:00 File: MPI_ADVISORIES_20240605.csv Status: 200
+2024-06-17 15:33:49,340: INFO - Date: 04 June 2024 00:00 File: MPI_ADVISORIES_20240604.csv Status: 200
+2024-06-17 15:33:49,626: INFO - Date: 03 June 2024 00:00 File: MPI_ADVISORIES_20240603.csv Status: 200
+2024-06-17 15:33:49,976: INFO - Date: 02 June 2024 00:00 File: MPI_ADVISORIES_20240602.csv Status: 200
+2024-06-17 15:33:50,268: INFO - Date: 01 June 2024 00:00 File: MPI_ADVISORIES_20240601.csv Status: 200
+2024-06-17 15:33:50,569: INFO - Date: 31 May 2024 00:00 File: MPI_ADVISORIES_20240531.csv Status: 200
+2024-06-17 15:33:50,836: INFO - Date: 30 May 2024 00:00 File: MPI_ADVISORIES_20240530.csv Status: 200
+2024-06-17 15:33:51,147: INFO - Date: 29 May 2024 00:00 File: MPI_ADVISORIES_20240529.csv Status: 200
+2024-06-17 15:33:51,588: INFO - Date: 28 May 2024 00:00 File: MPI_ADVISORIES_20240528.csv Status: 200
+2024-06-17 15:33:51,865: INFO - Date: 27 May 2024 00:00 File: MPI_ADVISORIES_20240527.csv Status: 200
+2024-06-17 15:33:52,174: INFO - Date: 26 May 2024 00:00 File: MPI_ADVISORIES_20240526.csv Status: 200
+2024-06-17 15:33:52,559: INFO - Date: 25 May 2024 00:00 File: MPI_ADVISORIES_20240525.csv Status: 200
+2024-06-17 15:33:53,925: INFO - Date: 24 May 2024 00:00 File: MPI_ADVISORIES_20240524.csv Status: 200
+2024-06-17 15:33:53,925: INFO - Downloading completed for mpi_advisories .. Exiting...
+2024-06-17 15:34:01,366: INFO - https://www.iemop.ph/market-data/rtd-hvdc-schedules
+2024-06-17 15:34:12,611: INFO - hvdc_schedules -> Path: /rtd-hvdc-schedules 
+2024-06-17 15:34:12,646: INFO - [<div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240616.csv				        								<div class="market-data-dl-date">16 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240615.csv				        								<div class="market-data-dl-date">15 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240614.csv				        								<div class="market-data-dl-date">14 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240613.csv				        								<div class="market-data-dl-date">13 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240612.csv				        								<div class="market-data-dl-date">12 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240611.csv				        								<div class="market-data-dl-date">11 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240610.csv				        								<div class="market-data-dl-date">10 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240609.csv				        								<div class="market-data-dl-date">09 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240608.csv				        								<div class="market-data-dl-date">08 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240607.csv				        								<div class="market-data-dl-date">07 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240606.csv				        								<div class="market-data-dl-date">06 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240605.csv				        								<div class="market-data-dl-date">05 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240604.csv				        								<div class="market-data-dl-date">04 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240603.csv				        								<div class="market-data-dl-date">03 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDMuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240602.csv				        								<div class="market-data-dl-date">02 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDIuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240601.csv				        								<div class="market-data-dl-date">01 June 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MDEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240531.csv				        								<div class="market-data-dl-date">31 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MzEuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240530.csv				        								<div class="market-data-dl-date">30 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MzAuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240529.csv				        								<div class="market-data-dl-date">29 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MjkuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240528.csv				        								<div class="market-data-dl-date">28 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MjguY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240527.csv				        								<div class="market-data-dl-date">27 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MjcuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240526.csv				        								<div class="market-data-dl-date">26 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MjYuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240525.csv				        								<div class="market-data-dl-date">25 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MjUuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>, <div class="market-reports-item"> <div class="market-reports-title">				        								RTDHS_20240524.csv				        								<div class="market-data-dl-date">24 May 2024 00:00</div> </div> <a href="?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA1MjQuY3N2"> <button class="mr-view-data-btn"> <img class="market-data-dl-icon" src="https://www.iemop.ph/wp-content/themes/wp-bootstrap-starter-child/assets/img/inside-download.png"/> </button> </a> </div>]
+2024-06-17 15:34:12,658: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\hvdc schedules 
+2024-06-17 15:34:13,192: INFO - Date: 16 June 2024 00:00 File: RTDHS_20240616.csv Status: 200
+2024-06-17 15:34:13,651: INFO - Date: 15 June 2024 00:00 File: RTDHS_20240615.csv Status: 200
+2024-06-17 15:53:57,389: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 15:54:05,651: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 15:54:05,672: WARNING - No data received Exiting.. 
+2024-06-17 15:54:13,110: INFO - https://www.iemop.ph/market-data/mpi-advisories
+2024-06-17 15:54:25,758: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 15:54:33,106: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 15:57:45,631: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 15:57:50,343: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 16:00:53,064: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 16:01:15,170: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 129, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 19.338
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74CAE1F52+60322]
+	(No symbol) [0x00007FF74CA5CEC9]
+	(No symbol) [0x00007FF74C917EBA]
+	(No symbol) [0x00007FF74C90070D]
+	(No symbol) [0x00007FF74C900410]
+	(No symbol) [0x00007FF74C8FE39D]
+	(No symbol) [0x00007FF74C8FEBAF]
+	(No symbol) [0x00007FF74C90D97E]
+	(No symbol) [0x00007FF74C925C6F]
+	(No symbol) [0x00007FF74C92B67A]
+	(No symbol) [0x00007FF74C8FF33A]
+	(No symbol) [0x00007FF74C9259B1]
+	(No symbol) [0x00007FF74C9ABFDE]
+	(No symbol) [0x00007FF74C98BFC3]
+	(No symbol) [0x00007FF74C959617]
+	(No symbol) [0x00007FF74C95A211]
+	GetHandleVerifier [0x00007FF74CDF94AD+3301629]
+	GetHandleVerifier [0x00007FF74CE436D3+3605283]
+	GetHandleVerifier [0x00007FF74CE39450+3563680]
+	GetHandleVerifier [0x00007FF74CB94326+790390]
+	(No symbol) [0x00007FF74CA6750F]
+	(No symbol) [0x00007FF74CA63404]
+	(No symbol) [0x00007FF74CA63592]
+	(No symbol) [0x00007FF74CA52F9F]
+	BaseThreadInitThunk [0x00007FFD0F9A257D+29]
+	RtlUserThreadStart [0x00007FFD1144AF28+40]
+
+2024-06-17 16:01:15,170: ERROR - Retrying.... 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 129, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 19.338
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74CAE1F52+60322]
+	(No symbol) [0x00007FF74CA5CEC9]
+	(No symbol) [0x00007FF74C917EBA]
+	(No symbol) [0x00007FF74C90070D]
+	(No symbol) [0x00007FF74C900410]
+	(No symbol) [0x00007FF74C8FE39D]
+	(No symbol) [0x00007FF74C8FEBAF]
+	(No symbol) [0x00007FF74C90D97E]
+	(No symbol) [0x00007FF74C925C6F]
+	(No symbol) [0x00007FF74C92B67A]
+	(No symbol) [0x00007FF74C8FF33A]
+	(No symbol) [0x00007FF74C9259B1]
+	(No symbol) [0x00007FF74C9ABFDE]
+	(No symbol) [0x00007FF74C98BFC3]
+	(No symbol) [0x00007FF74C959617]
+	(No symbol) [0x00007FF74C95A211]
+	GetHandleVerifier [0x00007FF74CDF94AD+3301629]
+	GetHandleVerifier [0x00007FF74CE436D3+3605283]
+	GetHandleVerifier [0x00007FF74CE39450+3563680]
+	GetHandleVerifier [0x00007FF74CB94326+790390]
+	(No symbol) [0x00007FF74CA6750F]
+	(No symbol) [0x00007FF74CA63404]
+	(No symbol) [0x00007FF74CA63592]
+	(No symbol) [0x00007FF74CA52F9F]
+	BaseThreadInitThunk [0x00007FFD0F9A257D+29]
+	RtlUserThreadStart [0x00007FFD1144AF28+40]
+
+2024-06-17 16:01:20,523: INFO - https://www.iemop.ph/market-data/mpi-advisories
+2024-06-17 16:01:24,676: INFO - mpi_advisories -> Path: /mpi-advisories 
+2024-06-17 16:03:13,776: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 16:03:21,494: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 16:03:55,962: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 16:04:02,087: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 16:05:05,598: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 16:05:10,617: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 16:06:14,584: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 16:06:19,528: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 16:07:19,670: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-final
+2024-06-17 16:07:24,386: INFO - lwap_final -> Path: /load-weighted-average-prices-final 
+2024-06-17 16:46:12,641: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 16:46:18,390: INFO - dipc_raw -> Path: /dipc-energy-results-raw 
+2024-06-17 16:47:34,668: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 16:47:56,793: ERROR - Exception has been thrown. 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 131, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 16.190
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74CAE1F52+60322]
+	(No symbol) [0x00007FF74CA5CEC9]
+	(No symbol) [0x00007FF74C917EBA]
+	(No symbol) [0x00007FF74C90070D]
+	(No symbol) [0x00007FF74C900410]
+	(No symbol) [0x00007FF74C8FE39D]
+	(No symbol) [0x00007FF74C8FEBAF]
+	(No symbol) [0x00007FF74C90D97E]
+	(No symbol) [0x00007FF74C925C6F]
+	(No symbol) [0x00007FF74C92B67A]
+	(No symbol) [0x00007FF74C8FF33A]
+	(No symbol) [0x00007FF74C9259B1]
+	(No symbol) [0x00007FF74C9ABFDE]
+	(No symbol) [0x00007FF74C98BFC3]
+	(No symbol) [0x00007FF74C959617]
+	(No symbol) [0x00007FF74C95A211]
+	GetHandleVerifier [0x00007FF74CDF94AD+3301629]
+	GetHandleVerifier [0x00007FF74CE436D3+3605283]
+	GetHandleVerifier [0x00007FF74CE39450+3563680]
+	GetHandleVerifier [0x00007FF74CB94326+790390]
+	(No symbol) [0x00007FF74CA6750F]
+	(No symbol) [0x00007FF74CA63404]
+	(No symbol) [0x00007FF74CA63592]
+	(No symbol) [0x00007FF74CA52F9F]
+	BaseThreadInitThunk [0x00007FFD0F9A257D+29]
+	RtlUserThreadStart [0x00007FFD1144AF28+40]
+
+2024-06-17 16:47:56,793: ERROR - Retrying.... 
+Traceback (most recent call last):
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\main.py", line 131, in download_data
+    driver.get(self.uri)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 353, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\.venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 16.190
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74CAE1F52+60322]
+	(No symbol) [0x00007FF74CA5CEC9]
+	(No symbol) [0x00007FF74C917EBA]
+	(No symbol) [0x00007FF74C90070D]
+	(No symbol) [0x00007FF74C900410]
+	(No symbol) [0x00007FF74C8FE39D]
+	(No symbol) [0x00007FF74C8FEBAF]
+	(No symbol) [0x00007FF74C90D97E]
+	(No symbol) [0x00007FF74C925C6F]
+	(No symbol) [0x00007FF74C92B67A]
+	(No symbol) [0x00007FF74C8FF33A]
+	(No symbol) [0x00007FF74C9259B1]
+	(No symbol) [0x00007FF74C9ABFDE]
+	(No symbol) [0x00007FF74C98BFC3]
+	(No symbol) [0x00007FF74C959617]
+	(No symbol) [0x00007FF74C95A211]
+	GetHandleVerifier [0x00007FF74CDF94AD+3301629]
+	GetHandleVerifier [0x00007FF74CE436D3+3605283]
+	GetHandleVerifier [0x00007FF74CE39450+3563680]
+	GetHandleVerifier [0x00007FF74CB94326+790390]
+	(No symbol) [0x00007FF74CA6750F]
+	(No symbol) [0x00007FF74CA63404]
+	(No symbol) [0x00007FF74CA63592]
+	(No symbol) [0x00007FF74CA52F9F]
+	BaseThreadInitThunk [0x00007FFD0F9A257D+29]
+	RtlUserThreadStart [0x00007FFD1144AF28+40]
+
+2024-06-17 16:48:08,239: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 16:48:13,812: INFO - dipc_raw -> Path: /dipc-energy-results-raw 
+2024-06-17 16:48:42,505: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 16:48:48,430: INFO - dipc_raw -> Path: /dipc-energy-results-raw 
+2024-06-17 16:50:39,509: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 16:50:51,815: INFO - dipc_raw -> Path: /dipc-energy-results-raw 
+2024-06-17 16:50:51,854: INFO - {0: {'date': '17 June 2024 00:00', 'title': 'DIPCER_202406170000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNzAwMDAuemlw'}, 1: {'date': '16 June 2024 23:00', 'title': 'DIPCER_202406162300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIzMDAuemlw'}, 2: {'date': '16 June 2024 22:00', 'title': 'DIPCER_202406162200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIyMDAuemlw'}, 3: {'date': '16 June 2024 21:00', 'title': 'DIPCER_202406162100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIxMDAuemlw'}, 4: {'date': '16 June 2024 20:00', 'title': 'DIPCER_202406162000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIwMDAuemlw'}, 5: {'date': '16 June 2024 19:00', 'title': 'DIPCER_202406161900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE5MDAuemlw'}, 6: {'date': '16 June 2024 18:00', 'title': 'DIPCER_202406161800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE4MDAuemlw'}, 7: {'date': '16 June 2024 17:00', 'title': 'DIPCER_202406161700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE3MDAuemlw'}, 8: {'date': '16 June 2024 16:00', 'title': 'DIPCER_202406161600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE2MDAuemlw'}, 9: {'date': '16 June 2024 15:00', 'title': 'DIPCER_202406161500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE1MDAuemlw'}, 10: {'date': '16 June 2024 14:00', 'title': 'DIPCER_202406161400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE0MDAuemlw'}, 11: {'date': '16 June 2024 13:00', 'title': 'DIPCER_202406161300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEzMDAuemlw'}, 12: {'date': '16 June 2024 12:00', 'title': 'DIPCER_202406161200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEyMDAuemlw'}, 13: {'date': '16 June 2024 11:00', 'title': 'DIPCER_202406161100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjExMDAuemlw'}, 14: {'date': '16 June 2024 10:00', 'title': 'DIPCER_202406161000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEwMDAuemlw'}, 15: {'date': '16 June 2024 09:00', 'title': 'DIPCER_202406160900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA5MDAuemlw'}, 16: {'date': '16 June 2024 08:00', 'title': 'DIPCER_202406160800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA4MDAuemlw'}, 17: {'date': '16 June 2024 07:00', 'title': 'DIPCER_202406160700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA3MDAuemlw'}, 18: {'date': '16 June 2024 06:00', 'title': 'DIPCER_202406160600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA2MDAuemlw'}, 19: {'date': '16 June 2024 05:00', 'title': 'DIPCER_202406160500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA1MDAuemlw'}, 20: {'date': '16 June 2024 04:00', 'title': 'DIPCER_202406160400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA0MDAuemlw'}, 21: {'date': '16 June 2024 03:00', 'title': 'DIPCER_202406160300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAzMDAuemlw'}, 22: {'date': '16 June 2024 02:00', 'title': 'DIPCER_202406160200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAyMDAuemlw'}, 23: {'date': '16 June 2024 01:00', 'title': 'DIPCER_202406160100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAxMDAuemlw'}}
+2024-06-17 16:50:51,857: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\dipc raw 
+2024-06-17 16:50:52,490: INFO - Date: 17 June 2024 00:00 File: DIPCER_202406170000.zip Status: 200
+2024-06-17 16:50:53,083: INFO - Date: 16 June 2024 23:00 File: DIPCER_202406162300.zip Status: 200
+2024-06-17 16:50:53,668: INFO - Date: 16 June 2024 22:00 File: DIPCER_202406162200.zip Status: 200
+2024-06-17 16:50:54,251: INFO - Date: 16 June 2024 21:00 File: DIPCER_202406162100.zip Status: 200
+2024-06-17 16:50:54,694: INFO - Date: 16 June 2024 20:00 File: DIPCER_202406162000.zip Status: 200
+2024-06-17 16:50:55,300: INFO - Date: 16 June 2024 19:00 File: DIPCER_202406161900.zip Status: 200
+2024-06-17 16:50:55,882: INFO - Date: 16 June 2024 18:00 File: DIPCER_202406161800.zip Status: 200
+2024-06-17 16:50:56,499: INFO - Date: 16 June 2024 17:00 File: DIPCER_202406161700.zip Status: 200
+2024-06-17 16:50:57,008: INFO - Date: 16 June 2024 16:00 File: DIPCER_202406161600.zip Status: 200
+2024-06-17 16:50:57,437: INFO - Date: 16 June 2024 15:00 File: DIPCER_202406161500.zip Status: 200
+2024-06-17 16:50:57,910: INFO - Date: 16 June 2024 14:00 File: DIPCER_202406161400.zip Status: 200
+2024-06-17 16:50:58,469: INFO - Date: 16 June 2024 13:00 File: DIPCER_202406161300.zip Status: 200
+2024-06-17 16:50:58,882: INFO - Date: 16 June 2024 12:00 File: DIPCER_202406161200.zip Status: 200
+2024-06-17 16:50:59,343: INFO - Date: 16 June 2024 11:00 File: DIPCER_202406161100.zip Status: 200
+2024-06-17 16:50:59,872: INFO - Date: 16 June 2024 10:00 File: DIPCER_202406161000.zip Status: 200
+2024-06-17 16:51:00,375: INFO - Date: 16 June 2024 09:00 File: DIPCER_202406160900.zip Status: 200
+2024-06-17 16:51:00,845: INFO - Date: 16 June 2024 08:00 File: DIPCER_202406160800.zip Status: 200
+2024-06-17 16:51:01,267: INFO - Date: 16 June 2024 07:00 File: DIPCER_202406160700.zip Status: 200
+2024-06-17 16:51:01,822: INFO - Date: 16 June 2024 06:00 File: DIPCER_202406160600.zip Status: 200
+2024-06-17 16:51:02,266: INFO - Date: 16 June 2024 05:00 File: DIPCER_202406160500.zip Status: 200
+2024-06-17 16:51:02,729: INFO - Date: 16 June 2024 04:00 File: DIPCER_202406160400.zip Status: 200
+2024-06-17 16:51:03,194: INFO - Date: 16 June 2024 03:00 File: DIPCER_202406160300.zip Status: 200
+2024-06-17 16:51:03,662: INFO - Date: 16 June 2024 02:00 File: DIPCER_202406160200.zip Status: 200
+2024-06-17 16:51:04,207: INFO - Date: 16 June 2024 01:00 File: DIPCER_202406160100.zip Status: 200
+2024-06-17 16:51:04,224: INFO - Downloading completed for dipc_raw .. Exiting...
+2024-06-17 16:51:11,686: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-original
+2024-06-17 16:51:16,453: INFO - lwap_original -> Path: /load-weighted-average-prices-original 
+2024-06-17 16:52:29,889: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 16:52:44,604: INFO - dipc_raw -> Path: /dipc-energy-results-raw 
+2024-06-17 16:52:44,651: INFO - {0: {'date': '17 June 2024 00:00', 'title': 'DIPCER_202406170000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNzAwMDAuemlw'}, 1: {'date': '16 June 2024 23:00', 'title': 'DIPCER_202406162300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIzMDAuemlw'}, 2: {'date': '16 June 2024 22:00', 'title': 'DIPCER_202406162200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIyMDAuemlw'}, 3: {'date': '16 June 2024 21:00', 'title': 'DIPCER_202406162100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIxMDAuemlw'}, 4: {'date': '16 June 2024 20:00', 'title': 'DIPCER_202406162000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIwMDAuemlw'}, 5: {'date': '16 June 2024 19:00', 'title': 'DIPCER_202406161900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE5MDAuemlw'}, 6: {'date': '16 June 2024 18:00', 'title': 'DIPCER_202406161800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE4MDAuemlw'}, 7: {'date': '16 June 2024 17:00', 'title': 'DIPCER_202406161700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE3MDAuemlw'}, 8: {'date': '16 June 2024 16:00', 'title': 'DIPCER_202406161600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE2MDAuemlw'}, 9: {'date': '16 June 2024 15:00', 'title': 'DIPCER_202406161500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE1MDAuemlw'}, 10: {'date': '16 June 2024 14:00', 'title': 'DIPCER_202406161400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE0MDAuemlw'}, 11: {'date': '16 June 2024 13:00', 'title': 'DIPCER_202406161300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEzMDAuemlw'}, 12: {'date': '16 June 2024 12:00', 'title': 'DIPCER_202406161200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEyMDAuemlw'}, 13: {'date': '16 June 2024 11:00', 'title': 'DIPCER_202406161100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjExMDAuemlw'}, 14: {'date': '16 June 2024 10:00', 'title': 'DIPCER_202406161000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEwMDAuemlw'}, 15: {'date': '16 June 2024 09:00', 'title': 'DIPCER_202406160900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA5MDAuemlw'}, 16: {'date': '16 June 2024 08:00', 'title': 'DIPCER_202406160800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA4MDAuemlw'}, 17: {'date': '16 June 2024 07:00', 'title': 'DIPCER_202406160700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA3MDAuemlw'}, 18: {'date': '16 June 2024 06:00', 'title': 'DIPCER_202406160600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA2MDAuemlw'}, 19: {'date': '16 June 2024 05:00', 'title': 'DIPCER_202406160500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA1MDAuemlw'}, 20: {'date': '16 June 2024 04:00', 'title': 'DIPCER_202406160400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA0MDAuemlw'}, 21: {'date': '16 June 2024 03:00', 'title': 'DIPCER_202406160300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAzMDAuemlw'}, 22: {'date': '16 June 2024 02:00', 'title': 'DIPCER_202406160200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAyMDAuemlw'}, 23: {'date': '16 June 2024 01:00', 'title': 'DIPCER_202406160100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAxMDAuemlw'}}
+2024-06-17 16:52:44,654: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\dipc raw 
+2024-06-17 16:52:45,288: INFO - Date: 17 June 2024 00:00 File: DIPCER_202406170000.zip Status: 200
+2024-06-17 16:52:45,933: INFO - Date: 16 June 2024 23:00 File: DIPCER_202406162300.zip Status: 200
+2024-06-17 16:52:46,549: INFO - Date: 16 June 2024 22:00 File: DIPCER_202406162200.zip Status: 200
+2024-06-17 16:52:46,950: INFO - Date: 16 June 2024 21:00 File: DIPCER_202406162100.zip Status: 200
+2024-06-17 16:52:47,564: INFO - Date: 16 June 2024 20:00 File: DIPCER_202406162000.zip Status: 200
+2024-06-17 16:52:48,195: INFO - Date: 16 June 2024 19:00 File: DIPCER_202406161900.zip Status: 200
+2024-06-17 16:52:48,649: INFO - Date: 16 June 2024 18:00 File: DIPCER_202406161800.zip Status: 200
+2024-06-17 16:52:49,098: INFO - Date: 16 June 2024 17:00 File: DIPCER_202406161700.zip Status: 200
+2024-06-17 16:52:49,523: INFO - Date: 16 June 2024 16:00 File: DIPCER_202406161600.zip Status: 200
+2024-06-17 16:52:49,966: INFO - Date: 16 June 2024 15:00 File: DIPCER_202406161500.zip Status: 200
+2024-06-17 16:52:51,439: INFO - Date: 16 June 2024 14:00 File: DIPCER_202406161400.zip Status: 200
+2024-06-17 16:52:52,086: INFO - Date: 16 June 2024 13:00 File: DIPCER_202406161300.zip Status: 200
+2024-06-17 16:52:52,627: INFO - Date: 16 June 2024 12:00 File: DIPCER_202406161200.zip Status: 200
+2024-06-17 16:52:53,178: INFO - Date: 16 June 2024 11:00 File: DIPCER_202406161100.zip Status: 200
+2024-06-17 16:52:53,679: INFO - Date: 16 June 2024 10:00 File: DIPCER_202406161000.zip Status: 200
+2024-06-17 16:52:54,115: INFO - Date: 16 June 2024 09:00 File: DIPCER_202406160900.zip Status: 200
+2024-06-17 16:52:54,722: INFO - Date: 16 June 2024 08:00 File: DIPCER_202406160800.zip Status: 200
+2024-06-17 16:52:55,330: INFO - Date: 16 June 2024 07:00 File: DIPCER_202406160700.zip Status: 200
+2024-06-17 16:52:55,922: INFO - Date: 16 June 2024 06:00 File: DIPCER_202406160600.zip Status: 200
+2024-06-17 16:52:56,533: INFO - Date: 16 June 2024 05:00 File: DIPCER_202406160500.zip Status: 200
+2024-06-17 16:52:57,061: INFO - Date: 16 June 2024 04:00 File: DIPCER_202406160400.zip Status: 200
+2024-06-17 16:52:57,533: INFO - Date: 16 June 2024 03:00 File: DIPCER_202406160300.zip Status: 200
+2024-06-17 16:52:58,062: INFO - Date: 16 June 2024 02:00 File: DIPCER_202406160200.zip Status: 200
+2024-06-17 16:52:58,582: INFO - Date: 16 June 2024 01:00 File: DIPCER_202406160100.zip Status: 200
+2024-06-17 16:52:58,614: INFO - Downloading completed for dipc_raw .. Exiting...
+2024-06-17 16:53:06,075: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-original
+2024-06-17 16:53:10,571: INFO - lwap_original -> Path: /load-weighted-average-prices-original 
+2024-06-17 16:58:55,004: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 16:58:59,935: INFO - dipc_raw -> Path: /dipc-energy-results-raw 
+2024-06-17 16:58:59,973: INFO - {0: {'date': '17 June 2024 00:00', 'title': 'DIPCER_202406170000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNzAwMDAuemlw'}, 1: {'date': '16 June 2024 23:00', 'title': 'DIPCER_202406162300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIzMDAuemlw'}, 2: {'date': '16 June 2024 22:00', 'title': 'DIPCER_202406162200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIyMDAuemlw'}, 3: {'date': '16 June 2024 21:00', 'title': 'DIPCER_202406162100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIxMDAuemlw'}, 4: {'date': '16 June 2024 20:00', 'title': 'DIPCER_202406162000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIwMDAuemlw'}, 5: {'date': '16 June 2024 19:00', 'title': 'DIPCER_202406161900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE5MDAuemlw'}, 6: {'date': '16 June 2024 18:00', 'title': 'DIPCER_202406161800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE4MDAuemlw'}, 7: {'date': '16 June 2024 17:00', 'title': 'DIPCER_202406161700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE3MDAuemlw'}, 8: {'date': '16 June 2024 16:00', 'title': 'DIPCER_202406161600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE2MDAuemlw'}, 9: {'date': '16 June 2024 15:00', 'title': 'DIPCER_202406161500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE1MDAuemlw'}, 10: {'date': '16 June 2024 14:00', 'title': 'DIPCER_202406161400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE0MDAuemlw'}, 11: {'date': '16 June 2024 13:00', 'title': 'DIPCER_202406161300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEzMDAuemlw'}, 12: {'date': '16 June 2024 12:00', 'title': 'DIPCER_202406161200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEyMDAuemlw'}, 13: {'date': '16 June 2024 11:00', 'title': 'DIPCER_202406161100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjExMDAuemlw'}, 14: {'date': '16 June 2024 10:00', 'title': 'DIPCER_202406161000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEwMDAuemlw'}, 15: {'date': '16 June 2024 09:00', 'title': 'DIPCER_202406160900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA5MDAuemlw'}, 16: {'date': '16 June 2024 08:00', 'title': 'DIPCER_202406160800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA4MDAuemlw'}, 17: {'date': '16 June 2024 07:00', 'title': 'DIPCER_202406160700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA3MDAuemlw'}, 18: {'date': '16 June 2024 06:00', 'title': 'DIPCER_202406160600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA2MDAuemlw'}, 19: {'date': '16 June 2024 05:00', 'title': 'DIPCER_202406160500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA1MDAuemlw'}, 20: {'date': '16 June 2024 04:00', 'title': 'DIPCER_202406160400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA0MDAuemlw'}, 21: {'date': '16 June 2024 03:00', 'title': 'DIPCER_202406160300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAzMDAuemlw'}, 22: {'date': '16 June 2024 02:00', 'title': 'DIPCER_202406160200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAyMDAuemlw'}, 23: {'date': '16 June 2024 01:00', 'title': 'DIPCER_202406160100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAxMDAuemlw'}}
+2024-06-17 16:58:59,973: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\dipc raw 
+2024-06-17 16:59:00,534: INFO - Date: 17 June 2024 00:00 File: DIPCER_202406170000.zip Status: 200
+2024-06-17 16:59:01,123: INFO - Date: 16 June 2024 23:00 File: DIPCER_202406162300.zip Status: 200
+2024-06-17 16:59:01,651: INFO - Date: 16 June 2024 22:00 File: DIPCER_202406162200.zip Status: 200
+2024-06-17 16:59:02,173: INFO - Date: 16 June 2024 21:00 File: DIPCER_202406162100.zip Status: 200
+2024-06-17 16:59:02,636: INFO - Date: 16 June 2024 20:00 File: DIPCER_202406162000.zip Status: 200
+2024-06-17 16:59:03,309: INFO - Date: 16 June 2024 19:00 File: DIPCER_202406161900.zip Status: 200
+2024-06-17 16:59:03,835: INFO - Date: 16 June 2024 18:00 File: DIPCER_202406161800.zip Status: 200
+2024-06-17 16:59:04,486: INFO - Date: 16 June 2024 17:00 File: DIPCER_202406161700.zip Status: 200
+2024-06-17 16:59:04,935: INFO - Date: 16 June 2024 16:00 File: DIPCER_202406161600.zip Status: 200
+2024-06-17 16:59:05,419: INFO - Date: 16 June 2024 15:00 File: DIPCER_202406161500.zip Status: 200
+2024-06-17 16:59:05,908: INFO - Date: 16 June 2024 14:00 File: DIPCER_202406161400.zip Status: 200
+2024-06-17 16:59:06,535: INFO - Date: 16 June 2024 13:00 File: DIPCER_202406161300.zip Status: 200
+2024-06-17 16:59:07,053: INFO - Date: 16 June 2024 12:00 File: DIPCER_202406161200.zip Status: 200
+2024-06-17 16:59:07,521: INFO - Date: 16 June 2024 11:00 File: DIPCER_202406161100.zip Status: 200
+2024-06-17 16:59:08,041: INFO - Date: 16 June 2024 10:00 File: DIPCER_202406161000.zip Status: 200
+2024-06-17 16:59:08,502: INFO - Date: 16 June 2024 09:00 File: DIPCER_202406160900.zip Status: 200
+2024-06-17 16:59:09,088: INFO - Date: 16 June 2024 08:00 File: DIPCER_202406160800.zip Status: 200
+2024-06-17 16:59:09,523: INFO - Date: 16 June 2024 07:00 File: DIPCER_202406160700.zip Status: 200
+2024-06-17 16:59:09,953: INFO - Date: 16 June 2024 06:00 File: DIPCER_202406160600.zip Status: 200
+2024-06-17 16:59:10,519: INFO - Date: 16 June 2024 05:00 File: DIPCER_202406160500.zip Status: 200
+2024-06-17 16:59:11,003: INFO - Date: 16 June 2024 04:00 File: DIPCER_202406160400.zip Status: 200
+2024-06-17 16:59:12,422: INFO - Date: 16 June 2024 03:00 File: DIPCER_202406160300.zip Status: 200
+2024-06-17 16:59:12,895: INFO - Date: 16 June 2024 02:00 File: DIPCER_202406160200.zip Status: 200
+2024-06-17 16:59:13,362: INFO - Date: 16 June 2024 01:00 File: DIPCER_202406160100.zip Status: 200
+2024-06-17 16:59:13,386: INFO - Downloading completed for dipc_raw .. Exiting...
+2024-06-17 16:59:20,888: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-original
+2024-06-17 16:59:26,245: INFO - lwap_original -> Path: /load-weighted-average-prices-original 
+2024-06-17 17:01:30,560: INFO - https://www.iemop.ph/market-data/dipc-energy-results-raw
+2024-06-17 17:01:48,173: INFO - dipc_raw -> Path: /dipc-energy-results-raw 
+2024-06-17 17:01:48,225: INFO - {0: {'date': '17 June 2024 00:00', 'title': 'DIPCER_202406170000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNzAwMDAuemlw'}, 1: {'date': '16 June 2024 23:00', 'title': 'DIPCER_202406162300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIzMDAuemlw'}, 2: {'date': '16 June 2024 22:00', 'title': 'DIPCER_202406162200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIyMDAuemlw'}, 3: {'date': '16 June 2024 21:00', 'title': 'DIPCER_202406162100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIxMDAuemlw'}, 4: {'date': '16 June 2024 20:00', 'title': 'DIPCER_202406162000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjIwMDAuemlw'}, 5: {'date': '16 June 2024 19:00', 'title': 'DIPCER_202406161900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE5MDAuemlw'}, 6: {'date': '16 June 2024 18:00', 'title': 'DIPCER_202406161800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE4MDAuemlw'}, 7: {'date': '16 June 2024 17:00', 'title': 'DIPCER_202406161700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE3MDAuemlw'}, 8: {'date': '16 June 2024 16:00', 'title': 'DIPCER_202406161600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE2MDAuemlw'}, 9: {'date': '16 June 2024 15:00', 'title': 'DIPCER_202406161500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE1MDAuemlw'}, 10: {'date': '16 June 2024 14:00', 'title': 'DIPCER_202406161400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjE0MDAuemlw'}, 11: {'date': '16 June 2024 13:00', 'title': 'DIPCER_202406161300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEzMDAuemlw'}, 12: {'date': '16 June 2024 12:00', 'title': 'DIPCER_202406161200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEyMDAuemlw'}, 13: {'date': '16 June 2024 11:00', 'title': 'DIPCER_202406161100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjExMDAuemlw'}, 14: {'date': '16 June 2024 10:00', 'title': 'DIPCER_202406161000.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjEwMDAuemlw'}, 15: {'date': '16 June 2024 09:00', 'title': 'DIPCER_202406160900.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA5MDAuemlw'}, 16: {'date': '16 June 2024 08:00', 'title': 'DIPCER_202406160800.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA4MDAuemlw'}, 17: {'date': '16 June 2024 07:00', 'title': 'DIPCER_202406160700.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA3MDAuemlw'}, 18: {'date': '16 June 2024 06:00', 'title': 'DIPCER_202406160600.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA2MDAuemlw'}, 19: {'date': '16 June 2024 05:00', 'title': 'DIPCER_202406160500.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA1MDAuemlw'}, 20: {'date': '16 June 2024 04:00', 'title': 'DIPCER_202406160400.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjA0MDAuemlw'}, 21: {'date': '16 June 2024 03:00', 'title': 'DIPCER_202406160300.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAzMDAuemlw'}, 22: {'date': '16 June 2024 02:00', 'title': 'DIPCER_202406160200.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAyMDAuemlw'}, 23: {'date': '16 June 2024 01:00', 'title': 'DIPCER_202406160100.zip', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvRElQQ0VSL0RJUENFUl8yMDI0MDYxNjAxMDAuemlw'}}
+2024-06-17 17:01:48,228: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\dipc raw 
+2024-06-17 17:01:48,842: INFO - Date: 17 June 2024 00:00 File: DIPCER_202406170000.zip Status: 200
+2024-06-17 17:01:49,504: INFO - Date: 16 June 2024 23:00 File: DIPCER_202406162300.zip Status: 200
+2024-06-17 17:01:50,142: INFO - Date: 16 June 2024 22:00 File: DIPCER_202406162200.zip Status: 200
+2024-06-17 17:01:50,748: INFO - Date: 16 June 2024 21:00 File: DIPCER_202406162100.zip Status: 200
+2024-06-17 17:01:51,215: INFO - Date: 16 June 2024 20:00 File: DIPCER_202406162000.zip Status: 200
+2024-06-17 17:01:51,733: INFO - Date: 16 June 2024 19:00 File: DIPCER_202406161900.zip Status: 200
+2024-06-17 17:01:52,280: INFO - Date: 16 June 2024 18:00 File: DIPCER_202406161800.zip Status: 200
+2024-06-17 17:01:52,873: INFO - Date: 16 June 2024 17:00 File: DIPCER_202406161700.zip Status: 200
+2024-06-17 17:01:53,305: INFO - Date: 16 June 2024 16:00 File: DIPCER_202406161600.zip Status: 200
+2024-06-17 17:01:53,761: INFO - Date: 16 June 2024 15:00 File: DIPCER_202406161500.zip Status: 200
+2024-06-17 17:01:54,328: INFO - Date: 16 June 2024 14:00 File: DIPCER_202406161400.zip Status: 200
+2024-06-17 17:01:54,826: INFO - Date: 16 June 2024 13:00 File: DIPCER_202406161300.zip Status: 200
+2024-06-17 17:01:55,270: INFO - Date: 16 June 2024 12:00 File: DIPCER_202406161200.zip Status: 200
+2024-06-17 17:01:55,732: INFO - Date: 16 June 2024 11:00 File: DIPCER_202406161100.zip Status: 200
+2024-06-17 17:01:56,310: INFO - Date: 16 June 2024 10:00 File: DIPCER_202406161000.zip Status: 200
+2024-06-17 17:01:56,826: INFO - Date: 16 June 2024 09:00 File: DIPCER_202406160900.zip Status: 200
+2024-06-17 17:01:57,285: INFO - Date: 16 June 2024 08:00 File: DIPCER_202406160800.zip Status: 200
+2024-06-17 17:01:57,733: INFO - Date: 16 June 2024 07:00 File: DIPCER_202406160700.zip Status: 200
+2024-06-17 17:01:58,216: INFO - Date: 16 June 2024 06:00 File: DIPCER_202406160600.zip Status: 200
+2024-06-17 17:01:58,810: INFO - Date: 16 June 2024 05:00 File: DIPCER_202406160500.zip Status: 200
+2024-06-17 17:01:59,285: INFO - Date: 16 June 2024 04:00 File: DIPCER_202406160400.zip Status: 200
+2024-06-17 17:01:59,888: INFO - Date: 16 June 2024 03:00 File: DIPCER_202406160300.zip Status: 200
+2024-06-17 17:02:00,336: INFO - Date: 16 June 2024 02:00 File: DIPCER_202406160200.zip Status: 200
+2024-06-17 17:02:00,891: INFO - Date: 16 June 2024 01:00 File: DIPCER_202406160100.zip Status: 200
+2024-06-17 17:02:00,907: INFO - Downloading completed for dipc_raw .. Exiting...
+2024-06-17 17:02:08,378: INFO - https://www.iemop.ph/market-data/load-weighted-average-prices-original
+2024-06-17 17:02:13,307: INFO - lwap_original -> Path: /load-weighted-average-prices-original 
+2024-06-17 17:02:13,332: INFO - {0: {'date': '16 June 2024 00:00', 'title': 'original_lwap_20240616.csv', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvb3JpZ2x3YXAvb3JpZ2luYWxfbHdhcF8yMDI0MDYxNi5jc3Y='}}
+2024-06-17 17:02:13,332: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\lwap original 
+2024-06-17 17:02:13,813: INFO - Date: 16 June 2024 00:00 File: original_lwap_20240616.csv Status: 200
+2024-06-17 17:02:13,813: INFO - Downloading completed for lwap_original .. Exiting...
+2024-06-17 17:02:21,260: INFO - https://www.iemop.ph/market-data/generator-weighted-average-price-original
+2024-06-17 17:02:26,742: INFO - gwap_original -> Path: /generator-weighted-average-price-original 
+2024-06-17 17:02:26,767: INFO - {0: {'date': '16 June 2024 00:00', 'title': 'original_gwap_20240616.csv', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvb3JpZ2d3YXAvb3JpZ2luYWxfZ3dhcF8yMDI0MDYxNi5jc3Y='}}
+2024-06-17 17:02:26,767: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\gwap original 
+2024-06-17 17:02:27,178: INFO - Date: 16 June 2024 00:00 File: original_gwap_20240616.csv Status: 200
+2024-06-17 17:02:27,180: INFO - Downloading completed for gwap_original .. Exiting...
+2024-06-17 17:02:34,672: INFO - https://www.iemop.ph/market-data/mpi-advisories
+2024-06-17 17:02:44,312: INFO - mpi_advisories -> Path: /mpi-advisories 
+2024-06-17 17:02:44,350: INFO - {0: {'date': '16 June 2024 00:00', 'title': 'MPI_ADVISORIES_20240616.csv', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVBJLUFEVklTT1JJRVMvTVBJX0FEVklTT1JJRVNfMjAyNDA2MTYuY3N2'}}
+2024-06-17 17:02:44,352: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\mpi advisories 
+2024-06-17 17:02:44,692: INFO - Date: 16 June 2024 00:00 File: MPI_ADVISORIES_20240616.csv Status: 200
+2024-06-17 17:02:44,692: INFO - Downloading completed for mpi_advisories .. Exiting...
+2024-06-17 17:02:52,209: INFO - https://www.iemop.ph/market-data/rtd-hvdc-schedules
+2024-06-17 17:02:59,260: INFO - hvdc_schedules -> Path: /rtd-hvdc-schedules 
+2024-06-17 17:02:59,299: INFO - {0: {'date': '16 June 2024 00:00', 'title': 'RTDHS_20240616.csv', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRESFMvUlRESFNfMjAyNDA2MTYuY3N2'}}
+2024-06-17 17:02:59,299: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\hvdc schedules 
+2024-06-17 17:02:59,816: INFO - Date: 16 June 2024 00:00 File: RTDHS_20240616.csv Status: 200
+2024-06-17 17:02:59,819: INFO - Downloading completed for hvdc_schedules .. Exiting...
+2024-06-17 17:03:07,410: INFO - https://www.iemop.ph/market-data/rtd-market-clearing-price
+2024-06-17 17:03:14,471: INFO - marginal_prices -> Path: /rtd-market-clearing-price 
+2024-06-17 17:03:14,516: INFO - {0: {'date': '16 June 2024 00:00', 'title': 'MP_20240616.csv', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvTVAvTVBfMjAyNDA2MTYuY3N2'}}
+2024-06-17 17:03:14,517: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\marginal prices 
+2024-06-17 17:03:15,270: INFO - Date: 16 June 2024 00:00 File: MP_20240616.csv Status: 200
+2024-06-17 17:03:15,272: INFO - Downloading completed for marginal_prices .. Exiting...
+2024-06-17 17:03:22,762: INFO - https://www.iemop.ph/market-data/rtd-regional-summaries
+2024-06-17 17:03:29,766: INFO - regional_summaries -> Path: /rtd-regional-summaries 
+2024-06-17 17:03:29,798: INFO - {0: {'date': '16 June 2024 00:00', 'title': 'RTDREG_20240616.csv', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlREUkVHL1JURFJFR18yMDI0MDYxNi5jc3Y='}}
+2024-06-17 17:03:29,799: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\regional summaries 
+2024-06-17 17:03:31,345: INFO - Date: 16 June 2024 00:00 File: RTDREG_20240616.csv Status: 200
+2024-06-17 17:03:31,345: INFO - Downloading completed for regional_summaries .. Exiting...
+2024-06-17 17:03:38,862: INFO - https://www.iemop.ph/market-data/outage-schedules-used-in-rtd
+2024-06-17 17:03:47,894: INFO - outages -> Path: /outage-schedules-used-in-rtd 
+2024-06-17 17:03:47,934: INFO - {0: {'date': '16 June 2024 00:00', 'title': 'RTDOS_20240616.csv', 'link': '?md_file=L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMvZG93bmxvYWRzL2RhdGEvUlRET1MvUlRET1NfMjAyNDA2MTYuY3N2'}}
+2024-06-17 17:03:47,935: INFO - Created folder for: C:\Users\eiron\Desktop\Eiron\Programs\Alpha\Portfolio Projects\market-data-extract\bucket\outages 
+2024-06-17 17:03:49,567: INFO - Date: 16 June 2024 00:00 File: RTDOS_20240616.csv Status: 200
+2024-06-17 17:03:49,567: INFO - Downloading completed for outages .. Exiting...

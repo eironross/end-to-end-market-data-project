@@ -1,5 +1,7 @@
 .venv
 test.py
+test.ipynb
 __pycache__
 .env
+bucket
 market_functions/iemop_paths.py
