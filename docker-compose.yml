@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  elt_script:
+    build:
+      context: ./extract_data
+      dockerfile: Dockerfile
+    command: ["sh", "-c", "Xvfb :99 -screen 0 1280x1024x24 & python run.py"]
+    networks:
+      - market_data_network
+
+networks:
+  market_data_network:
+    driver: bridge
+   

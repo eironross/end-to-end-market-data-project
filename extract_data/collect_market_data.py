@@ -8,15 +8,13 @@ This is the main program for the app.
 """
 # Built-in imports
 import os
-import sys
 
 # Import the paths from different files
 from market_functions.iemop_paths import MR_PATHS, ONE_DATA_PATHS, URI, default_path
-from market_functions import logger, move_files
+from market_functions import logger
 from market_functions.utility import create_dictionary, create_folders
 
 # Libraries
-import requests
 from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
@@ -48,15 +46,19 @@ class GetMarketData():
         return True if file_name.endswith(format) else False
     
     @staticmethod       
-    def _headless_option() -> None:
+    def _headless_option() -> Options:
         
         # Adding argument to run selenium headless    
         chrome_options = Options()
-        # chrome_options.add_argument("--headless")
-        chrome_options.add_experimental_option("detach", True)
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--remote-debugging-port=9222")
+        
         return chrome_options
     
-    def _preprocess_market_data(self, market_items: list, path: str) -> list:
+    def _preprocess_market_data(self, market_items: list, path: str) -> dict:
         
         date = market_items[0].find('div', class_= "market-data-dl-date").text.strip().split()
         date = " ".join(date[0:3])
@@ -81,10 +83,11 @@ class GetMarketData():
     
         """__create_files: receives data as dictionary, direc (directory or path)
         
-        This method will access the generated link from IEMOP then convert the response data from binary data to actual files then save the data to the target location
+        This method will access the generated link from IEMOP then convert the response data from binary data to actual files then save the data to the bucket
 
         """
-    
+        import requests
+        
         if not data:
             return None
         
@@ -94,6 +97,7 @@ class GetMarketData():
             
             market_data_link = self.uri+item.get("link")
             
+            # Accessing the generated link then write the files to the bucket
             with requests.get(market_data_link) as response: 
                 self.log.info("Date: {} File: {} Status: {}".format(
                     item.get("date"), 
@@ -102,7 +106,8 @@ class GetMarketData():
                 
                 with open(file_loc, "wb") as file:
                     file.write(response.content)  
-
+            
+            # Checking the files if zip
             if self._isformat(item.get("title"), "zip"):
                 with ZipFile(file_loc, "r") as my_zip:
                     my_zip.extractall(direc)
@@ -110,10 +115,16 @@ class GetMarketData():
                 os.remove(file_loc)
     
                 
-    def download_data(self, **kwargs: dict):
+    def download_data(self, **kwargs: dict) -> None:
+        """
+        Processes the generate link from IEMOP and able to download the data. To store the bucket 
+        
+        Returns:
+            None
+        """
         
         if not kwargs:
-            raise "Expected to have an input at least one keyword argument, I got None"
+            raise Exception("Expected to have an input at least one keyword argument, I got None")
         
         try:
             #Will place the kwargs to a variable
@@ -156,7 +167,7 @@ class GetMarketData():
 
                     data = self._preprocess_market_data(market_items=market_items,path=key)
                     self.log.info(data)
-                    direc = create_folders(default_path=default_path, fname=key)
+                    direc = create_folders(default_path=self.default_path, fname=key)
                     self.log.info(f"Created folder for: {direc} ")
                     self._create_files(data, direc)
                     self.log.info("Downloading completed for {} .. Exiting...".format(key))
@@ -166,7 +177,4 @@ class GetMarketData():
             self.log.exception("Retrying.... ")
             
 
-if __name__ == "__main__":
-    get = GetMarketData(url=URI, default_path=default_path)
-    for i in [MR_PATHS, ONE_DATA_PATHS]:
-        get.download_data(**i)
+
