@@ -3,6 +3,6 @@ test.py
 test.ipynb
 __pycache__
 .env
-bucket
+extract_data/bucket
 extract_data/market_functions/iemop_paths.py
-Dockerfile
+extract_data/logs
